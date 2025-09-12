@@ -1,0 +1,3051 @@
+{
+  "success": true,
+  "sitemap_url": "https://darwin.md/sitemap.xml",
+  "fetched_at": "2025-09-07T21:01:11.956192Z",
+  "subsitemaps": [
+    {
+      "loc": "https://darwin.md/media/sitemaps/categories.xml",
+      "lastmod": "2025-09-08T00:00:04+03:00",
+      "type": "urlset",
+      "total_urls": 828,
+      "sample_urls": [
+        {
+          "loc": "https://darwin.md/monitoare",
+          "lastmod": "2022-06-23T17:37:42+03:00"
+        },
+        {
+          "loc": "https://darwin.md/ru/monitory",
+          "lastmod": "2022-06-23T17:37:42+03:00"
+        },
+        {
+          "loc": "https://darwin.md/telefoane",
+          "lastmod": "2023-09-18T14:10:35+03:00"
+        },
+        {
+          "loc": "https://darwin.md/ru/telefoane",
+          "lastmod": "2023-09-18T14:10:35+03:00"
+        },
+        {
+          "loc": "https://darwin.md/telefoane/gsm-phone",
+          "lastmod": "2025-08-05T13:29:10+03:00"
+        }
+      ]
+    },
+    {
+      "loc": "https://darwin.md/media/sitemaps/blogs.xml",
+      "lastmod": "2025-09-08T00:00:03+03:00",
+      "type": "urlset",
+      "total_urls": 446,
+      "sample_urls": [
+        {
+          "loc": "https://darwin.md/blog/cele-mai-asteptate-gadgeturi-in-2020",
+          "lastmod": "2024-09-26T14:13:21+03:00"
+        },
+        {
+          "loc": "https://darwin.md/ru/blog/top-5-samykh-ozhidaemykh-gadzhetov-2020",
+          "lastmod": "2024-09-26T14:13:21+03:00"
+        },
+        {
+          "loc": "https://darwin.md/events/filiala-202-botanica",
+          "lastmod": "2024-09-26T14:13:21+03:00"
+        },
+        {
+          "loc": "https://darwin.md/ru/events/filial-202-botanica",
+          "lastmod": "2024-09-26T14:13:21+03:00"
+        },
+        {
+          "loc": "https://darwin.md/lifehack/top-6-gadgeturi-perfecte-pentru-masina-ta",
+          "lastmod": "2024-09-26T14:13:22+03:00"
+        }
+      ]
+    },
+    {
+      "loc": "https://darwin.md/media/sitemaps/seo_filters.xml",
+      "lastmod": "2025-09-08T00:00:05+03:00",
+      "type": "urlset",
+      "total_urls": 1632,
+      "sample_urls": [
+        {
+          "loc": "https://darwin.md/gadgets/ceasuri-inteligente/apple-watch-se-nike",
+          "lastmod": "2024-09-24T09:01:17+03:00"
+        },
+        {
+          "loc": "https://darwin.md/ru/gadgets/smart-chasy/apple-watch-se-nike",
+          "lastmod": "2024-09-24T09:01:17+03:00"
+        },
+        {
+          "loc": "https://darwin.md/laptopuri/diagonala-13-inch",
+          "lastmod": "2024-09-25T10:21:36+03:00"
+        },
+        {
+          "loc": "https://darwin.md/ru/noutbuki/diagonal-13-dyuymov",
+          "lastmod": "2024-09-25T10:21:36+03:00"
+        },
+        {
+          "loc": "https://darwin.md/gadgets/ceasuri-inteligente/apple-watch-se",
+          "lastmod": "2024-09-24T09:33:08+03:00"
+        }
+      ]
+    },
+    {
+      "loc": "https://darwin.md/media/sitemaps/promos.xml",
+      "lastmod": "2025-09-08T00:00:03+03:00",
+      "type": "urlset",
+      "total_urls": 210,
+      "sample_urls": [
+        {
+          "loc": "https://darwin.md/oferta-saptaminii",
+          "lastmod": "2025-09-07T19:49:30+03:00"
+        },
+        {
+          "loc": "https://darwin.md/ru/tovary-nedely",
+          "lastmod": "2025-09-07T19:49:30+03:00"
+        },
+        {
+          "loc": "https://darwin.md/device-uri-hyperx-cu-reduceri",
+          "lastmod": "2025-03-20T12:02:55+02:00"
+        },
+        {
+          "loc": "https://darwin.md/ru/ustrojstva-hyperx-so-skidkoj",
+          "lastmod": "2025-03-20T12:02:55+02:00"
+        },
+        {
+          "loc": "https://darwin.md/alege-reducerile-xiaomi",
+          "lastmod": "2025-08-11T17:53:46+03:00"
+        }
+      ]
+    },
+    {
+      "loc": "https://darwin.md/media/sitemaps/pages.xml",
+      "lastmod": "2025-09-08T00:00:03+03:00",
+      "type": "urlset",
+      "total_urls": 30,
+      "sample_urls": [
+        {
+          "loc": "https://darwin.md/despre-noi",
+          "lastmod": "2024-09-09T16:14:32+03:00"
+        },
+        {
+          "loc": "https://darwin.md/ru/o-nas",
+          "lastmod": "2024-09-09T16:14:32+03:00"
+        },
+        {
+          "loc": "https://darwin.md/club",
+          "lastmod": "2024-06-25T09:03:17+03:00"
+        },
+        {
+          "loc": "https://darwin.md/ru/club",
+          "lastmod": "2024-06-25T09:03:17+03:00"
+        },
+        {
+          "loc": "https://darwin.md/tradein",
+          "lastmod": "2024-07-03T14:07:55+03:00"
+        }
+      ]
+    },
+    {
+      "loc": "https://darwin.md/media/sitemaps/monitoare-420.xml",
+      "lastmod": "2025-09-08T00:00:04+03:00",
+      "type": "urlset",
+      "total_urls": 1280,
+      "sample_urls": [
+        {
+          "loc": "https://darwin.md/philips-223v5lhsb2-black.html",
+          "lastmod": "2025-09-06T19:40:15+03:00"
+        },
+        {
+          "loc": "https://darwin.md/ru/philips-223v5lhsb2-black.html",
+          "lastmod": "2025-09-06T19:40:15+03:00"
+        },
+        {
+          "loc": "https://darwin.md/benq-pd3200u-black.html",
+          "lastmod": "2025-09-06T23:25:01+03:00"
+        },
+        {
+          "loc": "https://darwin.md/ru/benq-pd3200u-black.html",
+          "lastmod": "2025-09-06T23:25:01+03:00"
+        },
+        {
+          "loc": "https://darwin.md/samsung-c24f396fhi-g-black.html",
+          "lastmod": "2025-09-06T19:40:23+03:00"
+        }
+      ]
+    },
+    {
+      "loc": "https://darwin.md/media/sitemaps/telefoane-mobile-cu-buton-422.xml",
+      "lastmod": "2025-09-08T00:00:04+03:00",
+      "type": "urlset",
+      "total_urls": 170,
+      "sample_urls": [
+        {
+          "loc": "https://darwin.md/230-ds-nokia-dark-silver.html",
+          "lastmod": "2025-09-07T23:55:22+03:00"
+        },
+        {
+          "loc": "https://darwin.md/ru/230-ds-nokia-dark-silver.html",
+          "lastmod": "2025-09-07T23:55:22+03:00"
+        },
+        {
+          "loc": "https://darwin.md/nokia-216-black.html",
+          "lastmod": "2025-09-07T23:36:20+03:00"
+        },
+        {
+          "loc": "https://darwin.md/ru/nokia-216-black.html",
+          "lastmod": "2025-09-07T23:36:20+03:00"
+        },
+        {
+          "loc": "https://darwin.md/nokia-130-2017-black.html",
+          "lastmod": "2025-09-07T02:43:38+03:00"
+        }
+      ]
+    },
+    {
+      "loc": "https://darwin.md/media/sitemaps/smartphone-423.xml",
+      "lastmod": "2025-09-08T00:00:07+03:00",
+      "type": "urlset",
+      "total_urls": 5076,
+      "sample_urls": [
+        {
+          "loc": "https://darwin.md/smartphone_iphone-7-128gb-silver.html",
+          "lastmod": "2025-09-07T10:13:20+03:00"
+        },
+        {
+          "loc": "https://darwin.md/ru/smartphone_iphone-7-128gb-silver.html",
+          "lastmod": "2025-09-07T10:13:20+03:00"
+        },
+        {
+          "loc": "https://darwin.md/smartphone_iphone-7-32gb-silver.html",
+          "lastmod": "2025-09-06T21:38:04+03:00"
+        },
+        {
+          "loc": "https://darwin.md/ru/smartphone_iphone-7-32gb-silver.html",
+          "lastmod": "2025-09-06T21:38:04+03:00"
+        },
+        {
+          "loc": "https://darwin.md/smartphone_iphone-7-plus-128gb-black.html",
+          "lastmod": "2025-09-07T22:22:54+03:00"
+        }
+      ]
+    },
+    {
+      "loc": "https://darwin.md/media/sitemaps/telefoane-dect-425.xml",
+      "lastmod": "2025-09-08T00:00:07+03:00",
+      "type": "urlset",
+      "total_urls": 48,
+      "sample_urls": [
+        {
+          "loc": "https://darwin.md/panasonic-kx-tg2511uas-silver.html",
+          "lastmod": "2025-09-06T23:04:52+03:00"
+        },
+        {
+          "loc": "https://darwin.md/ru/panasonic-kx-tg2511uas-silver.html",
+          "lastmod": "2025-09-06T23:04:52+03:00"
+        },
+        {
+          "loc": "https://darwin.md/panasonic-kx-tg2512uam-marble.html",
+          "lastmod": "2025-09-07T17:13:36+03:00"
+        },
+        {
+          "loc": "https://darwin.md/ru/panasonic-kx-tg2512uam-marble.html",
+          "lastmod": "2025-09-07T17:13:36+03:00"
+        },
+        {
+          "loc": "https://darwin.md/panasonic-kx-tg1611uah-grey.html",
+          "lastmod": "2025-09-07T23:53:01+03:00"
+        }
+      ]
+    },
+    {
+      "loc": "https://darwin.md/media/sitemaps/accesorii-426.xml",
+      "lastmod": "2025-09-08T00:00:07+03:00",
+      "type": "urlset",
+      "total_urls": 28,
+      "sample_urls": [
+        {
+          "loc": "https://darwin.md/xiaomi-usb-mini-fan-blue.html",
+          "lastmod": "2025-09-07T23:44:09+03:00"
+        },
+        {
+          "loc": "https://darwin.md/ru/xiaomi-usb-mini-fan-blue.html",
+          "lastmod": "2025-09-07T23:44:09+03:00"
+        },
+        {
+          "loc": "https://darwin.md/rock-mini-usb-fan-light-white.html",
+          "lastmod": "2025-09-06T23:08:15+03:00"
+        },
+        {
+          "loc": "https://darwin.md/ru/rock-mini-usb-fan-light-white.html",
+          "lastmod": "2025-09-06T23:08:15+03:00"
+        },
+        {
+          "loc": "https://darwin.md/baseus-mini-lentile-pro-sugent-le01-black.html",
+          "lastmod": "2025-09-07T02:14:19+03:00"
+        }
+      ]
+    },
+    {
+      "loc": "https://darwin.md/media/sitemaps/acumulatoare-427.xml",
+      "lastmod": "2025-09-08T00:00:07+03:00",
+      "type": "urlset",
+      "total_urls": 148,
+      "sample_urls": [
+        {
+          "loc": "https://darwin.md/parrot-acumulator-drone-1500mah.html",
+          "lastmod": "2025-09-07T22:26:02+03:00"
+        },
+        {
+          "loc": "https://darwin.md/ru/parrot-acumulator-drone-1500mah.html",
+          "lastmod": "2025-09-07T22:26:02+03:00"
+        },
+        {
+          "loc": "https://darwin.md/acumulator-vivitar-gopro-ahdbt-401-1650mah-viv-gb-hero4-black.html",
+          "lastmod": "2025-09-07T23:56:34+03:00"
+        },
+        {
+          "loc": "https://darwin.md/ru/akkumulyator-vivitar-gopro-ahdbt-401-1650mah-viv-gb-hero4-black.html",
+          "lastmod": "2025-09-07T23:56:34+03:00"
+        },
+        {
+          "loc": "https://darwin.md/baterie-incarcator-razor-hovertrax-2-black.html",
+          "lastmod": "2025-09-07T01:31:46+03:00"
+        }
+      ]
+    },
+    {
+      "loc": "https://darwin.md/media/sitemaps/sticle-si-folii-de-protectie-428.xml",
+      "lastmod": "2025-09-08T00:00:09+03:00",
+      "type": "urlset",
+      "total_urls": 3104,
+      "sample_urls": [
+        {
+          "loc": "https://darwin.md/folie-protectie-sticla-apple-iphone-6-plus-screen-geeks-clear.html",
+          "lastmod": "2025-09-07T00:50:08+03:00"
+        },
+        {
+          "loc": "https://darwin.md/ru/folie-protectie-sticla-apple-iphone-6-plus-screen-geeks-clear.html",
+          "lastmod": "2025-09-07T00:50:08+03:00"
+        },
+        {
+          "loc": "https://darwin.md/folie-protectie-sticla-samsung-galaxy-trend-screen-geeks-clear.html",
+          "lastmod": "2025-09-07T05:29:25+03:00"
+        },
+        {
+          "loc": "https://darwin.md/ru/folie-protectie-sticla-samsung-galaxy-trend-screen-geeks-clear.html",
+          "lastmod": "2025-09-07T05:29:25+03:00"
+        },
+        {
+          "loc": "https://darwin.md/folie-protectie-sticla-lg-g3-screen-geeks-clear.html",
+          "lastmod": "2025-09-05T04:58:14+03:00"
+        }
+      ]
+    },
+    {
+      "loc": "https://darwin.md/media/sitemaps/cabluri-429.xml",
+      "lastmod": "2025-09-08T00:00:09+03:00",
+      "type": "urlset",
+      "total_urls": 922,
+      "sample_urls": [
+        {
+          "loc": "https://darwin.md/cable-am-af-usb-20-18m-sven.html",
+          "lastmod": "2025-09-07T20:34:40+03:00"
+        },
+        {
+          "loc": "https://darwin.md/ru/cable-am-af-usb-20-18m-sven.html",
+          "lastmod": "2025-09-07T20:34:40+03:00"
+        },
+        {
+          "loc": "https://darwin.md/surge-protector-optimabase-5-sockets-18m-sven-black.html",
+          "lastmod": "2025-09-06T23:08:57+03:00"
+        },
+        {
+          "loc": "https://darwin.md/ru/surge-protector-optimabase-5-sockets-18m-sven-black.html",
+          "lastmod": "2025-09-06T23:08:57+03:00"
+        },
+        {
+          "loc": "https://darwin.md/cablu-usb-30-pin-aa-class-white.html",
+          "lastmod": "2025-09-04T18:19:02+03:00"
+        }
+      ]
+    },
+    {
+      "loc": "https://darwin.md/media/sitemaps/rucsacuri-431.xml",
+      "lastmod": "2025-09-08T00:00:11+03:00",
+      "type": "urlset",
+      "total_urls": 2252,
+      "sample_urls": [
+        {
+          "loc": "https://darwin.md/nb-backpack-razer-utility-rc21-00730101-0000-black.html",
+          "lastmod": "2025-09-03T03:11:01+03:00"
+        },
+        {
+          "loc": "https://darwin.md/ru/nb-backpack-razer-utility-rc21-00730101-0000-black.html",
+          "lastmod": "2025-09-03T03:11:01+03:00"
+        },
+        {
+          "loc": "https://darwin.md/tucano-modo-small-bmdoks-red.html",
+          "lastmod": "2025-09-05T07:35:10+03:00"
+        },
+        {
+          "loc": "https://darwin.md/ru/tucano-modo-small-bmdoks-red.html",
+          "lastmod": "2025-09-05T07:35:10+03:00"
+        },
+        {
+          "loc": "https://darwin.md/backpack-xd-design-bobby-xl-anti-theft-17-grey-p705.562.html",
+          "lastmod": "2025-09-03T03:11:04+03:00"
+        }
+      ]
+    },
+    {
+      "loc": "https://darwin.md/media/sitemaps/incarcatoare-432.xml",
+      "lastmod": "2025-09-08T00:00:11+03:00",
+      "type": "urlset",
+      "total_urls": 976,
+      "sample_urls": [
+        {
+          "loc": "https://darwin.md/incarcator-de-retea-samsung-microusb-etaou10ebe-black.html",
+          "lastmod": "2025-09-07T16:40:58+03:00"
+        },
+        {
+          "loc": "https://darwin.md/ru/zaryadnoe-ust-vosamsung-microusb-etaou10ebe-black.html",
+          "lastmod": "2025-09-07T16:40:58+03:00"
+        },
+        {
+          "loc": "https://darwin.md/adapter-de-retea-usb-nillkin-20a-white.html",
+          "lastmod": "2025-09-04T12:43:48+03:00"
+        },
+        {
+          "loc": "https://darwin.md/ru/adapter-de-retea-usb-nillkin-20a-white.html",
+          "lastmod": "2025-09-04T12:43:48+03:00"
+        },
+        {
+          "loc": "https://darwin.md/smartwatch_apple-watch-magnetic-charging-cable-2-m-white.htm.html",
+          "lastmod": "2025-09-07T06:58:17+03:00"
+        }
+      ]
+    },
+    {
+      "loc": "https://darwin.md/media/sitemaps/accesorii-pentru-console-433.xml",
+      "lastmod": "2025-09-08T00:00:11+03:00",
+      "type": "urlset",
+      "total_urls": 230,
+      "sample_urls": [
+        {
+          "loc": "https://darwin.md/hdd-500gb-for-xbox-360-black.html",
+          "lastmod": "2025-09-07T22:08:49+03:00"
+        },
+        {
+          "loc": "https://darwin.md/ru/hdd-500gb-for-xbox-360-black.html",
+          "lastmod": "2025-09-07T22:08:49+03:00"
+        },
+        {
+          "loc": "https://darwin.md/switch-labo-nintendo-variety-kit.html",
+          "lastmod": "2025-09-07T16:21:30+03:00"
+        },
+        {
+          "loc": "https://darwin.md/ru/switch-labo-nintendo-variety-kit.html",
+          "lastmod": "2025-09-07T16:21:30+03:00"
+        },
+        {
+          "loc": "https://darwin.md/tv-m-kinect.html",
+          "lastmod": "2025-09-07T11:00:07+03:00"
+        }
+      ]
+    },
+    {
+      "loc": "https://darwin.md/media/sitemaps/adaptor-436.xml",
+      "lastmod": "2025-09-08T00:00:12+03:00",
+      "type": "urlset",
+      "total_urls": 656,
+      "sample_urls": [
+        {
+          "loc": "https://darwin.md/adapter-priza-americana.html",
+          "lastmod": "2025-09-07T22:38:09+03:00"
+        },
+        {
+          "loc": "https://darwin.md/ru/adapter-priza-americana.html",
+          "lastmod": "2025-09-07T22:38:09+03:00"
+        },
+        {
+          "loc": "https://darwin.md/hdmi-apple-adaptor-hama-hama.html",
+          "lastmod": "2025-09-07T05:21:03+03:00"
+        },
+        {
+          "loc": "https://darwin.md/ru/hdmi-apple-adaptor-hama-hama.html",
+          "lastmod": "2025-09-07T05:21:03+03:00"
+        },
+        {
+          "loc": "https://darwin.md/usb-c-to-usb-adapter-white.html",
+          "lastmod": "2025-09-07T17:22:39+03:00"
+        }
+      ]
+    },
+    {
+      "loc": "https://darwin.md/media/sitemaps/protectie-437.xml",
+      "lastmod": "2025-09-08T00:00:12+03:00",
+      "type": "urlset",
+      "total_urls": 4,
+      "sample_urls": [
+        {
+          "loc": "https://darwin.md/core-premium-galaxy-watch-42-araree-clear.html",
+          "lastmod": "2025-09-03T02:45:58+03:00"
+        },
+        {
+          "loc": "https://darwin.md/ru/core-premium-galaxy-watch-42-araree-clear.html",
+          "lastmod": "2025-09-03T02:45:58+03:00"
+        },
+        {
+          "loc": "https://darwin.md/core-premium-galaxy-watch-46-mm-araree-clear.html",
+          "lastmod": "2025-09-06T07:16:04+03:00"
+        },
+        {
+          "loc": "https://darwin.md/ru/core-premium-galaxy-watch-46-mm-araree-clear.html",
+          "lastmod": "2025-09-06T07:16:04+03:00"
+        }
+      ]
+    },
+    {
+      "loc": "https://darwin.md/media/sitemaps/set-de-curatare-438.xml",
+      "lastmod": "2025-09-08T00:00:12+03:00",
+      "type": "urlset",
+      "total_urls": 40,
+      "sample_urls": [
+        {
+          "loc": "https://darwin.md/monster-clean-touch-for-iphoneipadipod-132792-00-black.html",
+          "lastmod": "2025-09-06T22:26:20+03:00"
+        },
+        {
+          "loc": "https://darwin.md/ru/monster-clean-touch-for-iphoneipadipod-132792-00-black.html",
+          "lastmod": "2025-09-06T22:26:20+03:00"
+        },
+        {
+          "loc": "https://darwin.md/set-de-curatare-colorway-cw-4129-100-ml.html",
+          "lastmod": "2025-09-06T23:28:10+03:00"
+        },
+        {
+          "loc": "https://darwin.md/ru/nabor-dlya-cistki-colorway-cw-4129-100-ml.html",
+          "lastmod": "2025-09-06T23:28:10+03:00"
+        },
+        {
+          "loc": "https://darwin.md/set-de-curatare-patron-f3-019-50-ml-50-ml.html",
+          "lastmod": "2025-09-07T14:55:49+03:00"
+        }
+      ]
+    },
+    {
+      "loc": "https://darwin.md/media/sitemaps/accesorii-foto-si-video-439.xml",
+      "lastmod": "2025-09-08T00:00:12+03:00",
+      "type": "urlset",
+      "total_urls": 28,
+      "sample_urls": [
+        {
+          "loc": "https://darwin.md/color-film-for-i-type-double-pack.html",
+          "lastmod": "2025-09-07T19:35:01+03:00"
+        },
+        {
+          "loc": "https://darwin.md/ru/color-film-for-i-type-double-pack.html",
+          "lastmod": "2025-09-07T19:35:01+03:00"
+        },
+        {
+          "loc": "https://darwin.md/bli-canon-430ex-iii-rt-black-1-metal.html",
+          "lastmod": "2025-09-05T15:49:08+03:00"
+        },
+        {
+          "loc": "https://darwin.md/ru/vspyshka-canon-430ex-iii-rt-chernyi-1-metall.html",
+          "lastmod": "2025-09-05T15:49:08+03:00"
+        },
+        {
+          "loc": "https://darwin.md/bli-canon-speedlite-el-5-black-1-metal.html",
+          "lastmod": "2025-09-03T05:19:21+03:00"
+        }
+      ]
+    },
+    {
+      "loc": "https://darwin.md/media/sitemaps/genti-si-rucsacuri-pentru-aparate-foto-440.xml",
+      "lastmod": "2025-09-08T00:00:12+03:00",
+      "type": "urlset",
+      "total_urls": 268,
+      "sample_urls": [
+        {
+          "loc": "https://darwin.md/shoulder-bag-caselogic-dsm-101k-black.html",
+          "lastmod": "2025-09-07T22:28:16+03:00"
+        },
+        {
+          "loc": "https://darwin.md/ru/shoulder-bag-caselogic-dsm-101k-black.html",
+          "lastmod": "2025-09-07T22:28:16+03:00"
+        },
+        {
+          "loc": "https://darwin.md/shoulder-bag-vanguard-2go-30-black.html",
+          "lastmod": "2025-09-07T08:42:24+03:00"
+        },
+        {
+          "loc": "https://darwin.md/ru/shoulder-bag-vanguard-2go-30-black.html",
+          "lastmod": "2025-09-07T08:42:24+03:00"
+        },
+        {
+          "loc": "https://darwin.md/shoulder-bag-vanguard-uprise-ii-18.html",
+          "lastmod": "2025-09-07T08:01:40+03:00"
+        }
+      ]
+    },
+    {
+      "loc": "https://darwin.md/media/sitemaps/obiective-441.xml",
+      "lastmod": "2025-09-08T00:00:12+03:00",
+      "type": "urlset",
+      "total_urls": 388,
+      "sample_urls": [
+        {
+          "loc": "https://darwin.md/sigma-af-12-24mm-f40-dg-hsm-art-fnik-.html",
+          "lastmod": "2025-09-07T11:44:42+03:00"
+        },
+        {
+          "loc": "https://darwin.md/ru/sigma-af-12-24mm-f40-dg-hsm-art-fnik-.html",
+          "lastmod": "2025-09-07T11:44:42+03:00"
+        },
+        {
+          "loc": "https://darwin.md/zoom-lens-canon-ef-70-200mm-f-2.8-l-usm.html",
+          "lastmod": "2025-09-07T00:34:15+03:00"
+        },
+        {
+          "loc": "https://darwin.md/ru/zoom-lens-canon-ef-70-200mm-f-2.8-l-usm.html",
+          "lastmod": "2025-09-07T00:34:15+03:00"
+        },
+        {
+          "loc": "https://darwin.md/prime-lens-canon-ef-50mm-f1.4-usm.html",
+          "lastmod": "2025-09-07T22:49:13+03:00"
+        }
+      ]
+    },
+    {
+      "loc": "https://darwin.md/media/sitemaps/trepiede-442.xml",
+      "lastmod": "2025-09-08T00:00:12+03:00",
+      "type": "urlset",
+      "total_urls": 368,
+      "sample_urls": [
+        {
+          "loc": "https://darwin.md/manfrotto-290-xtra-kit-ball-head.html",
+          "lastmod": "2025-09-07T21:37:57+03:00"
+        },
+        {
+          "loc": "https://darwin.md/ru/manfrotto-290-xtra-kit-ball-head.html",
+          "lastmod": "2025-09-07T21:37:57+03:00"
+        },
+        {
+          "loc": "https://darwin.md/manfrotto-055-alu-3s-kit-3w-head.html",
+          "lastmod": "2025-09-07T07:27:53+03:00"
+        },
+        {
+          "loc": "https://darwin.md/ru/manfrotto-055-alu-3s-kit-3w-head.html",
+          "lastmod": "2025-09-07T07:27:53+03:00"
+        },
+        {
+          "loc": "https://darwin.md/manfrotto-290-xtra-kit-3-way-head.html",
+          "lastmod": "2025-09-07T13:31:26+03:00"
+        }
+      ]
+    },
+    {
+      "loc": "https://darwin.md/media/sitemaps/blitzuri-si-lumina-443.xml",
+      "lastmod": "2025-09-08T00:00:12+03:00",
+      "type": "urlset",
+      "total_urls": 18,
+      "sample_urls": [
+        {
+          "loc": "https://darwin.md/speedlite-canon-600-ex-ii-rt.html",
+          "lastmod": "2025-09-05T20:44:53+03:00"
+        },
+        {
+          "loc": "https://darwin.md/ru/speedlite-canon-600-ex-ii-rt.html",
+          "lastmod": "2025-09-05T20:44:53+03:00"
+        },
+        {
+          "loc": "https://darwin.md/speedlite-canon-hf-dc1-high-power-flash-powershot-g15-g16.html",
+          "lastmod": "2025-09-07T22:39:05+03:00"
+        },
+        {
+          "loc": "https://darwin.md/ru/speedlite-canon-hf-dc1-high-power-flash-powershot-g15-g16.html",
+          "lastmod": "2025-09-07T22:39:05+03:00"
+        },
+        {
+          "loc": "https://darwin.md/speedlite-canon-430ex-iii-rt.html",
+          "lastmod": "2025-09-07T17:31:39+03:00"
+        }
+      ]
+    },
+    {
+      "loc": "https://darwin.md/media/sitemaps/filtre-foto-444.xml",
+      "lastmod": "2025-09-08T00:00:12+03:00",
+      "type": "urlset",
+      "total_urls": 148,
+      "sample_urls": [
+        {
+          "loc": "https://darwin.md/filtru-sigma-86mm-protector.html",
+          "lastmod": "2025-09-07T00:07:58+03:00"
+        },
+        {
+          "loc": "https://darwin.md/ru/filtru-sigma-86mm-protector.html",
+          "lastmod": "2025-09-07T00:07:58+03:00"
+        },
+        {
+          "loc": "https://darwin.md/filtru-sigma-86mm-wr-uv.html",
+          "lastmod": "2025-09-07T07:37:59+03:00"
+        },
+        {
+          "loc": "https://darwin.md/ru/filtru-sigma-86mm-wr-uv.html",
+          "lastmod": "2025-09-07T07:37:59+03:00"
+        },
+        {
+          "loc": "https://darwin.md/sigma-55mm-dg-uv.html-.html",
+          "lastmod": "2025-09-06T22:38:04+03:00"
+        }
+      ]
+    },
+    {
+      "loc": "https://darwin.md/media/sitemaps/hartie-foto-445.xml",
+      "lastmod": "2025-09-08T00:00:13+03:00",
+      "type": "urlset",
+      "total_urls": 166,
+      "sample_urls": [
+        {
+          "loc": "https://darwin.md/xiaomi-mijia-colour-ribbon-white.html",
+          "lastmod": "2025-09-07T12:24:27+03:00"
+        },
+        {
+          "loc": "https://darwin.md/ru/xiaomi-mijia-colour-ribbon-white.html",
+          "lastmod": "2025-09-07T12:24:27+03:00"
+        },
+        {
+          "loc": "https://darwin.md/hartie-foto-pentru-imprimante-inkjet-epson-value-glossy-photo-paper-50-foi-white.html",
+          "lastmod": "2025-09-07T06:25:47+03:00"
+        },
+        {
+          "loc": "https://darwin.md/ru/fotobumaga-dlya-printerov-struinyi-epson-value-glossy-photo-paper-50-listov-belyi.html",
+          "lastmod": "2025-09-07T06:25:47+03:00"
+        },
+        {
+          "loc": "https://darwin.md/hartie-foto-pentru-imprimante-inkjet-epson-value-glossy-photo-paper-20-foi-white.html",
+          "lastmod": "2025-09-07T22:10:36+03:00"
+        }
+      ]
+    },
+    {
+      "loc": "https://darwin.md/media/sitemaps/cutii-pentru-poze-446.xml",
+      "lastmod": "2025-09-08T00:00:13+03:00",
+      "type": "urlset",
+      "total_urls": 12,
+      "sample_urls": [
+        {
+          "loc": "https://darwin.md/cutie-pentru-poze-polaroid-photo-box-orange.html",
+          "lastmod": "2025-09-07T19:30:56+03:00"
+        },
+        {
+          "loc": "https://darwin.md/ru/korobka-dlya-foto-polaroid-photo-box-oranzevyi.html",
+          "lastmod": "2025-09-07T19:30:56+03:00"
+        },
+        {
+          "loc": "https://darwin.md/cutie-pentru-poze-polaroid-photo-box-green.html",
+          "lastmod": "2025-09-05T00:55:01+03:00"
+        },
+        {
+          "loc": "https://darwin.md/ru/korobka-dlya-foto-polaroid-photo-box-zelyonyi.html",
+          "lastmod": "2025-09-05T00:55:01+03:00"
+        },
+        {
+          "loc": "https://darwin.md/cutie-pentru-poze-polaroid-photo-box-black.html",
+          "lastmod": "2025-09-07T00:05:58+03:00"
+        }
+      ]
+    },
+    {
+      "loc": "https://darwin.md/media/sitemaps/accesorii-pentru-camere-action-447.xml",
+      "lastmod": "2025-09-08T00:00:13+03:00",
+      "type": "urlset",
+      "total_urls": 272,
+      "sample_urls": [
+        {
+          "loc": "https://darwin.md/xiaomi-floating-grip-black.html",
+          "lastmod": "2025-09-07T10:42:15+03:00"
+        },
+        {
+          "loc": "https://darwin.md/ru/xiaomi-floating-grip-black.html",
+          "lastmod": "2025-09-07T10:42:15+03:00"
+        },
+        {
+          "loc": "https://darwin.md/xit-photo-mount-xtgptrm-black.html",
+          "lastmod": "2025-09-07T19:23:14+03:00"
+        },
+        {
+          "loc": "https://darwin.md/ru/xit-photo-mount-xtgptrm-black.html",
+          "lastmod": "2025-09-07T19:23:14+03:00"
+        },
+        {
+          "loc": "https://darwin.md/baterie-pt-gopro-hero5-black.html",
+          "lastmod": "2025-09-07T12:24:13+03:00"
+        }
+      ]
+    },
+    {
+      "loc": "https://darwin.md/media/sitemaps/pasta-termoconductoare-448.xml",
+      "lastmod": "2025-09-08T00:00:13+03:00",
+      "type": "urlset",
+      "total_urls": 42,
+      "sample_urls": [
+        {
+          "loc": "https://darwin.md/deepcool-ewdc-silvertimz5-3-g.html",
+          "lastmod": "2025-09-07T20:08:41+03:00"
+        },
+        {
+          "loc": "https://darwin.md/ru/deepcool-ewdc-silvertimz5-3-g.html",
+          "lastmod": "2025-09-07T20:08:41+03:00"
+        },
+        {
+          "loc": "https://darwin.md/thermal-paste-deepcool-ewdc-silvertimz3-15-gram-silver.html",
+          "lastmod": "2025-09-07T19:20:08+03:00"
+        },
+        {
+          "loc": "https://darwin.md/ru/thermal-paste-deepcool-ewdc-silvertimz3-15-gram-silver.html",
+          "lastmod": "2025-09-07T19:20:08+03:00"
+        },
+        {
+          "loc": "https://darwin.md/deepcool-ex750-3g-silver.html",
+          "lastmod": "2025-09-07T14:30:18+03:00"
+        }
+      ]
+    },
+    {
+      "loc": "https://darwin.md/media/sitemaps/huse-pentru-smartphone-uri-450.xml",
+      "lastmod": "2025-09-08T00:00:19+03:00",
+      "type": "urlset",
+      "total_urls": 9044,
+      "sample_urls": [
+        {
+          "loc": "https://darwin.md/husa-back-iphone-5-organdy-baseus-tinted-white.html",
+          "lastmod": "2025-09-03T04:41:45+03:00"
+        },
+        {
+          "loc": "https://darwin.md/ru/husa-back-iphone-5-organdy-baseus-tinted-white.html",
+          "lastmod": "2025-09-03T04:41:45+03:00"
+        },
+        {
+          "loc": "https://darwin.md/husa-back-iphone-5-organdy-case-baseus-lime-green.html",
+          "lastmod": "2025-09-04T11:06:43+03:00"
+        },
+        {
+          "loc": "https://darwin.md/ru/husa-back-iphone-5-organdy-case-baseus-lime-green.html",
+          "lastmod": "2025-09-04T11:06:43+03:00"
+        },
+        {
+          "loc": "https://darwin.md/husa-back-iphone-5-organdy-case-baseus-orange.html",
+          "lastmod": "2025-09-03T04:41:48+03:00"
+        }
+      ]
+    },
+    {
+      "loc": "https://darwin.md/media/sitemaps/huse-pentru-tablete-451.xml",
+      "lastmod": "2025-09-08T00:00:19+03:00",
+      "type": "urlset",
+      "total_urls": 854,
+      "sample_urls": [
+        {
+          "loc": "https://darwin.md/logitech-backlit-for-ipad-pro-9-7-black.html",
+          "lastmod": "2025-09-07T16:47:45+03:00"
+        },
+        {
+          "loc": "https://darwin.md/ru/logitech-backlit-for-ipad-pro-9-7-black.html",
+          "lastmod": "2025-09-07T16:47:45+03:00"
+        },
+        {
+          "loc": "https://darwin.md/apple-ipad-pro-10-5-leather-sleeve-black.html",
+          "lastmod": "2025-09-06T14:22:10+03:00"
+        },
+        {
+          "loc": "https://darwin.md/ru/apple-ipad-pro-10-5-leather-sleeve-black.html",
+          "lastmod": "2025-09-06T14:22:10+03:00"
+        },
+        {
+          "loc": "https://darwin.md/apple-ipad-10-5-leather-smart-cover-black.html",
+          "lastmod": "2025-09-06T18:02:52+03:00"
+        }
+      ]
+    },
+    {
+      "loc": "https://darwin.md/media/sitemaps/huse-pentru-laptop-uri-452.xml",
+      "lastmod": "2025-09-08T00:00:20+03:00",
+      "type": "urlset",
+      "total_urls": 302,
+      "sample_urls": [
+        {
+          "loc": "https://darwin.md/apple-macbook-pro-15-leather-sleave-saddle-brown-mrqv2.html",
+          "lastmod": "2025-09-07T17:14:24+03:00"
+        },
+        {
+          "loc": "https://darwin.md/ru/apple-macbook-pro-15-leather-sleave-saddle-brown-mrqv2.html",
+          "lastmod": "2025-09-07T17:14:24+03:00"
+        },
+        {
+          "loc": "https://darwin.md/apple-macbook-pro-15-leather-sleave-midnight-blue-mrqu2.html",
+          "lastmod": "2025-09-07T18:49:54+03:00"
+        },
+        {
+          "loc": "https://darwin.md/ru/apple-macbook-pro-15-leather-sleave-midnight-blue-mrqu2.html",
+          "lastmod": "2025-09-07T18:49:54+03:00"
+        },
+        {
+          "loc": "https://darwin.md/apple-macbook-pro-leather-sleave-saddle-brown-mrqm2.html",
+          "lastmod": "2025-09-07T21:36:19+03:00"
+        }
+      ]
+    },
+    {
+      "loc": "https://darwin.md/media/sitemaps/huse-pentru-smart-trackere-453.xml",
+      "lastmod": "2025-09-08T00:00:20+03:00",
+      "type": "urlset",
+      "total_urls": 70,
+      "sample_urls": [
+        {
+          "loc": "https://darwin.md/apple-airtag-leather-key-ring-product-red-mk103zma.html",
+          "lastmod": "2025-09-05T17:22:19+03:00"
+        },
+        {
+          "loc": "https://darwin.md/ru/apple-airtag-leather-key-ring-product-red-mk103zma.html",
+          "lastmod": "2025-09-05T17:22:19+03:00"
+        },
+        {
+          "loc": "https://darwin.md/apple-airtag-leather-key-ring-baltic-blue.html",
+          "lastmod": "2025-09-07T01:59:35+03:00"
+        },
+        {
+          "loc": "https://darwin.md/ru/apple-airtag-leather-key-ring-baltic-blue.html",
+          "lastmod": "2025-09-07T01:59:35+03:00"
+        },
+        {
+          "loc": "https://darwin.md/apple-airtag-leather-key-ring-saddle-brown.html",
+          "lastmod": "2025-09-07T10:37:37+03:00"
+        }
+      ]
+    },
+    {
+      "loc": "https://darwin.md/media/sitemaps/huse-pentru-camere-de-supraveghere-455.xml",
+      "lastmod": "2025-09-08T00:00:20+03:00",
+      "type": "urlset",
+      "total_urls": 2,
+      "sample_urls": [
+        {
+          "loc": "https://darwin.md/imou-ranger-2-frs13-orange.html",
+          "lastmod": "2025-09-07T22:47:43+03:00"
+        },
+        {
+          "loc": "https://darwin.md/ru/imou-ranger-2-frs13-orange.html",
+          "lastmod": "2025-09-07T22:47:43+03:00"
+        }
+      ]
+    },
+    {
+      "loc": "https://darwin.md/media/sitemaps/huse-pentru-stylus-uri-456.xml",
+      "lastmod": "2025-09-08T00:00:20+03:00",
+      "type": "urlset",
+      "total_urls": 4,
+      "sample_urls": [
+        {
+          "loc": "https://darwin.md/apple-pencil-case-red-product.html",
+          "lastmod": "2025-09-06T22:26:37+03:00"
+        },
+        {
+          "loc": "https://darwin.md/ru/apple-pencil-case-red-product.html",
+          "lastmod": "2025-09-06T22:26:37+03:00"
+        },
+        {
+          "loc": "https://darwin.md/apple-pencil-case-black-mq0w2zma.html",
+          "lastmod": "2025-09-06T22:36:16+03:00"
+        },
+        {
+          "loc": "https://darwin.md/ru/apple-pencil-case-black-mq0w2zma.html",
+          "lastmod": "2025-09-06T22:36:16+03:00"
+        }
+      ]
+    },
+    {
+      "loc": "https://darwin.md/media/sitemaps/huse-pentru-casti-457.xml",
+      "lastmod": "2025-09-08T00:00:20+03:00",
+      "type": "urlset",
+      "total_urls": 242,
+      "sample_urls": [
+        {
+          "loc": "https://darwin.md/airpods-wireless-charging-case-a5-white.html",
+          "lastmod": "2025-09-07T01:29:16+03:00"
+        },
+        {
+          "loc": "https://darwin.md/ru/airpods-wireless-charging-case-a5-white.html",
+          "lastmod": "2025-09-07T01:29:16+03:00"
+        },
+        {
+          "loc": "https://darwin.md/galaxy-buds-bean-araree-red.html",
+          "lastmod": "2025-09-07T09:42:57+03:00"
+        },
+        {
+          "loc": "https://darwin.md/ru/galaxy-buds-bean-araree-red.html",
+          "lastmod": "2025-09-07T09:42:57+03:00"
+        },
+        {
+          "loc": "https://darwin.md/galaxy-buds-bean-araree-black.html",
+          "lastmod": "2025-09-07T09:54:21+03:00"
+        }
+      ]
+    },
+    {
+      "loc": "https://darwin.md/media/sitemaps/genti-pentru-laptop-459.xml",
+      "lastmod": "2025-09-08T00:00:20+03:00",
+      "type": "urlset",
+      "total_urls": 438,
+      "sample_urls": [
+        {
+          "loc": "https://darwin.md/ebox-enl61115r-blue.html",
+          "lastmod": "2025-09-07T13:18:20+03:00"
+        },
+        {
+          "loc": "https://darwin.md/ru/ebox-enl61115r-blue.html",
+          "lastmod": "2025-09-07T13:18:20+03:00"
+        },
+        {
+          "loc": "https://darwin.md/nb-bag-ebox-enl61115r-156-black.html",
+          "lastmod": "2025-09-07T13:48:41+03:00"
+        },
+        {
+          "loc": "https://darwin.md/ru/nb-bag-ebox-enl61115r-156-black.html",
+          "lastmod": "2025-09-07T13:48:41+03:00"
+        },
+        {
+          "loc": "https://darwin.md/geanta-ebox-enl61115r-gray.html",
+          "lastmod": "2025-09-07T13:47:57+03:00"
+        }
+      ]
+    },
+    {
+      "loc": "https://darwin.md/media/sitemaps/genti-si-valize-pentru-calatorii-460.xml",
+      "lastmod": "2025-09-08T00:00:22+03:00",
+      "type": "urlset",
+      "total_urls": 2964,
+      "sample_urls": [
+        {
+          "loc": "https://darwin.md/trolley-90-points-suitcase-xiaomi-black-24.html",
+          "lastmod": "2025-09-06T12:34:30+03:00"
+        },
+        {
+          "loc": "https://darwin.md/ru/trolley-90-points-suitcase-xiaomi-black-24.html",
+          "lastmod": "2025-09-06T12:34:30+03:00"
+        },
+        {
+          "loc": "https://darwin.md/trolley-90-points-suitcase-xiaomi-blue-24.html",
+          "lastmod": "2025-09-05T14:56:45+03:00"
+        },
+        {
+          "loc": "https://darwin.md/ru/trolley-90-points-suitcase-xiaomi-blue-24.html",
+          "lastmod": "2025-09-05T14:56:45+03:00"
+        },
+        {
+          "loc": "https://darwin.md/trolley-90-points-suitcase-xiaomi-black-20.html",
+          "lastmod": "2025-09-06T21:35:08+03:00"
+        }
+      ]
+    },
+    {
+      "loc": "https://darwin.md/media/sitemaps/genti-organizer-461.xml",
+      "lastmod": "2025-09-08T00:00:22+03:00",
+      "type": "urlset",
+      "total_urls": 64,
+      "sample_urls": [
+        {
+          "loc": "https://darwin.md/geanta-organizer-wiwu-alpha-crossbody-gray.html",
+          "lastmod": "2025-09-07T08:33:02+03:00"
+        },
+        {
+          "loc": "https://darwin.md/ru/sumka-organaizer-wiwu-alpha-crossbody-seryi.html",
+          "lastmod": "2025-09-07T08:33:02+03:00"
+        },
+        {
+          "loc": "https://darwin.md/geanta-organizer-wiwu-alpha-crossbody-black.html",
+          "lastmod": "2025-09-07T08:29:16+03:00"
+        },
+        {
+          "loc": "https://darwin.md/ru/sumka-organaizer-wiwu-alpha-crossbody-cernyi.html",
+          "lastmod": "2025-09-07T08:29:16+03:00"
+        },
+        {
+          "loc": "https://darwin.md/geanta-organizer-rivacase-5631-blue.html",
+          "lastmod": "2025-09-07T00:58:41+03:00"
+        }
+      ]
+    },
+    {
+      "loc": "https://darwin.md/media/sitemaps/stylus-pen-462.xml",
+      "lastmod": "2025-09-08T00:00:22+03:00",
+      "type": "urlset",
+      "total_urls": 76,
+      "sample_urls": [
+        {
+          "loc": "https://darwin.md/google-pixelbook-pen-silver.html",
+          "lastmod": "2025-09-07T06:23:43+03:00"
+        },
+        {
+          "loc": "https://darwin.md/ru/google-pixelbook-pen-silver.html",
+          "lastmod": "2025-09-07T06:23:43+03:00"
+        },
+        {
+          "loc": "https://darwin.md/apple-pencil-2nd-generation-white.html",
+          "lastmod": "2025-09-07T20:37:35+03:00"
+        },
+        {
+          "loc": "https://darwin.md/ru/apple-pencil-2nd-generation-white.html",
+          "lastmod": "2025-09-07T20:37:35+03:00"
+        },
+        {
+          "loc": "https://darwin.md/apple-pencil-white.html",
+          "lastmod": "2025-09-07T23:07:00+03:00"
+        }
+      ]
+    },
+    {
+      "loc": "https://darwin.md/media/sitemaps/accesorii-pentru-imprimare-3d-463.xml",
+      "lastmod": "2025-09-08T00:00:22+03:00",
+      "type": "urlset",
+      "total_urls": 248,
+      "sample_urls": [
+        {
+          "loc": "https://darwin.md/eco-plastic-set-3doodler-24-bucati-blue.html",
+          "lastmod": "2025-09-07T23:13:48+03:00"
+        },
+        {
+          "loc": "https://darwin.md/ru/eco-plastic-set-3doodler-24-bucati-blue.html",
+          "lastmod": "2025-09-07T23:13:48+03:00"
+        },
+        {
+          "loc": "https://darwin.md/eco-plastic-set-3doodler-24-bucati-green.html",
+          "lastmod": "2025-09-07T15:28:01+03:00"
+        },
+        {
+          "loc": "https://darwin.md/ru/eco-plastic-set-3doodler-24-bucati-green.html",
+          "lastmod": "2025-09-07T15:28:01+03:00"
+        },
+        {
+          "loc": "https://darwin.md/eco-plastic-set-3doodler-24-bucati-yellow.html",
+          "lastmod": "2025-09-07T21:03:42+03:00"
+        }
+      ]
+    },
+    {
+      "loc": "https://darwin.md/media/sitemaps/baterii-464.xml",
+      "lastmod": "2025-09-08T00:00:22+03:00",
+      "type": "urlset",
+      "total_urls": 338,
+      "sample_urls": [
+        {
+          "loc": "https://darwin.md/duracell-lr03-aaa-mn2400-4buc.html",
+          "lastmod": "2025-09-07T13:04:53+03:00"
+        },
+        {
+          "loc": "https://darwin.md/ru/duracell-lr03-aaa-mn2400-4buc.html",
+          "lastmod": "2025-09-07T13:04:53+03:00"
+        },
+        {
+          "loc": "https://darwin.md/duracell-lr03-aaa-mn2400.html",
+          "lastmod": "2025-09-07T17:26:40+03:00"
+        },
+        {
+          "loc": "https://darwin.md/ru/duracell-lr03-aaa-mn2400.html",
+          "lastmod": "2025-09-07T17:26:40+03:00"
+        },
+        {
+          "loc": "https://darwin.md/baterii-duracell-lr6-aa-mx1500-turbo-max-2buc.html",
+          "lastmod": "2025-09-07T13:19:21+03:00"
+        }
+      ]
+    },
+    {
+      "loc": "https://darwin.md/media/sitemaps/curele-pentru-ceasuri-si-bratari-inteligente-465.xml",
+      "lastmod": "2025-09-08T00:00:23+03:00",
+      "type": "urlset",
+      "total_urls": 730,
+      "sample_urls": [
+        {
+          "loc": "https://darwin.md/sport-stainless-steel-pin-sm-ml-apple-watch-38mm-red.html",
+          "lastmod": "2025-09-03T13:53:47+03:00"
+        },
+        {
+          "loc": "https://darwin.md/ru/sport-stainless-steel-pin-sm-ml-apple-watch-38mm-red.html",
+          "lastmod": "2025-09-03T13:53:47+03:00"
+        },
+        {
+          "loc": "https://darwin.md/sport-stainless-steel-pin-sm-ml-apple-watch-40mm-red.html",
+          "lastmod": "2025-09-07T03:48:50+03:00"
+        },
+        {
+          "loc": "https://darwin.md/ru/sport-stainless-steel-pin-sm-ml-apple-watch-40mm-red.html",
+          "lastmod": "2025-09-07T03:48:50+03:00"
+        },
+        {
+          "loc": "https://darwin.md/curea-silicone-samsung-galaxy-watch-42mm-et-ysu81m-gray.html",
+          "lastmod": "2025-09-07T07:13:58+03:00"
+        }
+      ]
+    },
+    {
+      "loc": "https://darwin.md/media/sitemaps/prelungitoare-466.xml",
+      "lastmod": "2025-09-08T00:00:23+03:00",
+      "type": "urlset",
+      "total_urls": 960,
+      "sample_urls": [
+        {
+          "loc": "https://darwin.md/surge-protector-tellur-wifi-3-sockets-4usb-1.8m-tll331031-wh.html",
+          "lastmod": "2025-09-07T16:44:18+03:00"
+        },
+        {
+          "loc": "https://darwin.md/ru/surge-protector-tellur-wifi-3-sockets-4usb-1.8m-tll331031-wh.html",
+          "lastmod": "2025-09-07T16:44:18+03:00"
+        },
+        {
+          "loc": "https://darwin.md/sven-sf-05l-black.html",
+          "lastmod": "2025-09-07T09:11:43+03:00"
+        },
+        {
+          "loc": "https://darwin.md/ru/sven-sf-05l-black.html",
+          "lastmod": "2025-09-07T09:11:43+03:00"
+        },
+        {
+          "loc": "https://darwin.md/prelungitor-sven-sf-06l-3-black.html",
+          "lastmod": "2025-09-07T08:01:58+03:00"
+        }
+      ]
+    },
+    {
+      "loc": "https://darwin.md/media/sitemaps/accesorii-pentru-ochelari-vr-467.xml",
+      "lastmod": "2025-09-08T00:00:23+03:00",
+      "type": "urlset",
+      "total_urls": 14,
+      "sample_urls": [
+        {
+          "loc": "https://darwin.md/anker-for-oculus-quest-2-white.html",
+          "lastmod": "2025-09-06T22:31:59+03:00"
+        },
+        {
+          "loc": "https://darwin.md/ru/anker-for-oculus-quest-2-white.html",
+          "lastmod": "2025-09-06T22:31:59+03:00"
+        },
+        {
+          "loc": "https://darwin.md/oculus-elite-strap-white.html",
+          "lastmod": "2025-09-06T22:34:08+03:00"
+        },
+        {
+          "loc": "https://darwin.md/ru/oculus-elite-strap-belyi.html",
+          "lastmod": "2025-09-06T22:34:08+03:00"
+        },
+        {
+          "loc": "https://darwin.md/cablu-oculus-link-black.html",
+          "lastmod": "2025-09-06T22:30:29+03:00"
+        }
+      ]
+    },
+    {
+      "loc": "https://darwin.md/media/sitemaps/accesorii-pentru-drone-468.xml",
+      "lastmod": "2025-09-08T00:00:23+03:00",
+      "type": "urlset",
+      "total_urls": 26,
+      "sample_urls": [
+        {
+          "loc": "https://darwin.md/sistem-de-imprastiat-dji-spreading-system-v3-agras-t30-black.html",
+          "lastmod": "2025-09-07T12:37:35+03:00"
+        },
+        {
+          "loc": "https://darwin.md/ru/sistema-razbrasyvaniya-dji-spreading-system-v3-agras-t30-cernyi.html",
+          "lastmod": "2025-09-07T12:37:35+03:00"
+        },
+        {
+          "loc": "https://darwin.md/statie-mobila-dji-d-rtk-v20-high-precision-gnss-black.html",
+          "lastmod": "2025-09-06T09:06:46+03:00"
+        },
+        {
+          "loc": "https://darwin.md/ru/mobilnaya-stanciya-dji-d-rtk-v20-high-precision-gnss-cernyi.html",
+          "lastmod": "2025-09-06T09:06:46+03:00"
+        },
+        {
+          "loc": "https://darwin.md/spotlight-dji-wingsland-z15-black.html",
+          "lastmod": "2025-09-06T11:56:52+03:00"
+        }
+      ]
+    },
+    {
+      "loc": "https://darwin.md/media/sitemaps/camere-pentru-drone-469.xml",
+      "lastmod": "2025-09-08T00:00:23+03:00",
+      "type": "urlset",
+      "total_urls": 10,
+      "sample_urls": [
+        {
+          "loc": "https://darwin.md/camera-pentru-drona-dji-zenmuse-h20t-black.html",
+          "lastmod": "2025-09-06T01:24:51+03:00"
+        },
+        {
+          "loc": "https://darwin.md/ru/kamera-dlya-drona-dji-zenmuse-h20t-cernyi.html",
+          "lastmod": "2025-09-06T01:24:51+03:00"
+        },
+        {
+          "loc": "https://darwin.md/camera-pentru-drona-dji-zenmuse-h20-black.html",
+          "lastmod": "2025-09-05T19:44:47+03:00"
+        },
+        {
+          "loc": "https://darwin.md/ru/kamera-dlya-drona-dji-zenmuse-h20-cernyi.html",
+          "lastmod": "2025-09-05T19:44:47+03:00"
+        },
+        {
+          "loc": "https://darwin.md/camera-pentru-drona-dji-zenmuse-p1-black.html",
+          "lastmod": "2025-09-05T09:07:39+03:00"
+        }
+      ]
+    },
+    {
+      "loc": "https://darwin.md/media/sitemaps/suporturi-pentru-monitoare-470.xml",
+      "lastmod": "2025-09-08T00:00:24+03:00",
+      "type": "urlset",
+      "total_urls": 164,
+      "sample_urls": [
+        {
+          "loc": "https://darwin.md/gembird-ma-df1-01.html",
+          "lastmod": "2025-09-07T22:12:35+03:00"
+        },
+        {
+          "loc": "https://darwin.md/ru/gembird-ma-df1-01.html",
+          "lastmod": "2025-09-07T22:12:35+03:00"
+        },
+        {
+          "loc": "https://darwin.md/itechmount-mbs-12f-black.html",
+          "lastmod": "2025-09-07T23:33:05+03:00"
+        },
+        {
+          "loc": "https://darwin.md/ru/itechmount-mbs-12f-black.html",
+          "lastmod": "2025-09-07T23:33:05+03:00"
+        },
+        {
+          "loc": "https://darwin.md/reflecta-flexo-desk-23-1010d-silver.html",
+          "lastmod": "2025-09-06T15:48:09+03:00"
+        }
+      ]
+    },
+    {
+      "loc": "https://darwin.md/media/sitemaps/accesorii-pentru-aspiratoare-472.xml",
+      "lastmod": "2025-09-08T00:00:24+03:00",
+      "type": "urlset",
+      "total_urls": 310,
+      "sample_urls": [
+        {
+          "loc": "https://darwin.md/colector-de-praf-xiaomi-dust-box-filter-white.html",
+          "lastmod": "2025-09-07T11:12:09+03:00"
+        },
+        {
+          "loc": "https://darwin.md/ru/pylesbornik-xiaomi-dust-box-filter-belyi.html",
+          "lastmod": "2025-09-07T11:12:09+03:00"
+        },
+        {
+          "loc": "https://darwin.md/filtru-polaris-pvcf1617-white.html",
+          "lastmod": "2025-09-07T10:26:54+03:00"
+        },
+        {
+          "loc": "https://darwin.md/ru/filtr-polaris-pvcf1617-belyi.html",
+          "lastmod": "2025-09-07T10:26:54+03:00"
+        },
+        {
+          "loc": "https://darwin.md/filtru-hepa-filters-118-white.html",
+          "lastmod": "2025-09-07T14:47:52+03:00"
+        }
+      ]
+    },
+    {
+      "loc": "https://darwin.md/media/sitemaps/accesorii-pentru-multicookere-473.xml",
+      "lastmod": "2025-09-08T00:00:24+03:00",
+      "type": "urlset",
+      "total_urls": 20,
+      "sample_urls": [
+        {
+          "loc": "https://darwin.md/bol-pentru-multifierbator-redmond-rb-a503-black-brown.html",
+          "lastmod": "2025-09-06T22:26:44+03:00"
+        },
+        {
+          "loc": "https://darwin.md/ru/casa-dlya-multivarki-redmond-rb-a503-cernyi-koricnevyi.html",
+          "lastmod": "2025-09-06T22:26:44+03:00"
+        },
+        {
+          "loc": "https://darwin.md/bol-pentru-multifierbator-redmond-ram-g1-steel-white.html",
+          "lastmod": "2025-09-07T22:24:59+03:00"
+        },
+        {
+          "loc": "https://darwin.md/ru/casa-dlya-multivarki-redmond-ram-g1-steel-belyi.html",
+          "lastmod": "2025-09-07T22:24:59+03:00"
+        },
+        {
+          "loc": "https://darwin.md/bol-pentru-multifierbator-redmond-rb-c422-red-brown.html",
+          "lastmod": "2025-09-06T22:26:47+03:00"
+        }
+      ]
+    },
+    {
+      "loc": "https://darwin.md/media/sitemaps/accesorii-pentru-masini-de-tocat-carne-474.xml",
+      "lastmod": "2025-09-08T00:00:24+03:00",
+      "type": "urlset",
+      "total_urls": 10,
+      "sample_urls": [
+        {
+          "loc": "https://darwin.md/accessories-mincer-moulinex-xf9901-inox.html",
+          "lastmod": "2025-09-05T20:37:56+03:00"
+        },
+        {
+          "loc": "https://darwin.md/ru/accessories-mincer-moulinex-xf9901-inox.html",
+          "lastmod": "2025-09-05T20:37:56+03:00"
+        },
+        {
+          "loc": "https://darwin.md/accessories-mincer-moulinex-xf930032-gray.html",
+          "lastmod": "2025-09-07T07:37:26+03:00"
+        },
+        {
+          "loc": "https://darwin.md/ru/accessories-mincer-moulinex-xf930032-gray.html",
+          "lastmod": "2025-09-07T07:37:26+03:00"
+        },
+        {
+          "loc": "https://darwin.md/acc-food-processor-gorenje-mmc-tj-inox.html",
+          "lastmod": "2025-09-07T07:38:41+03:00"
+        }
+      ]
+    },
+    {
+      "loc": "https://darwin.md/media/sitemaps/accesorii-pentru-aparate-de-vidat-476.xml",
+      "lastmod": "2025-09-08T00:00:24+03:00",
+      "type": "urlset",
+      "total_urls": 18,
+      "sample_urls": [
+        {
+          "loc": "https://darwin.md/pachete-gorenje-vb-28-300-transparent.html",
+          "lastmod": "2025-09-03T08:58:41+03:00"
+        },
+        {
+          "loc": "https://darwin.md/ru/pakety-gorenje-vb-28-300-prozracnyi.html",
+          "lastmod": "2025-09-03T08:58:41+03:00"
+        },
+        {
+          "loc": "https://darwin.md/pachete-gorenje-vb-12-55-transparent.html",
+          "lastmod": "2025-09-07T07:37:54+03:00"
+        },
+        {
+          "loc": "https://darwin.md/ru/pakety-gorenje-vb-12-55-prozracnyi.html",
+          "lastmod": "2025-09-07T07:37:54+03:00"
+        },
+        {
+          "loc": "https://darwin.md/pachete-gorenje-vb-22-300-transparent.html",
+          "lastmod": "2025-09-07T16:20:00+03:00"
+        }
+      ]
+    },
+    {
+      "loc": "https://darwin.md/media/sitemaps/accesorii-pentru-cuptoare-cu-microunde-477.xml",
+      "lastmod": "2025-09-08T00:00:24+03:00",
+      "type": "urlset",
+      "total_urls": 4,
+      "sample_urls": [
+        {
+          "loc": "https://darwin.md/suport-pentru-cuptor-cu-microunde-barkan-114-white.html",
+          "lastmod": "2025-09-07T10:37:09+03:00"
+        },
+        {
+          "loc": "https://darwin.md/ru/podstavka-dlya-mikrovolnovoi-peci-barkan-114-belyi.html",
+          "lastmod": "2025-09-07T10:37:09+03:00"
+        },
+        {
+          "loc": "https://darwin.md/suport-pentru-cuptor-cu-microunde-gembird-wm-u35-01-w-white.html",
+          "lastmod": "2025-09-07T23:46:07+03:00"
+        },
+        {
+          "loc": "https://darwin.md/ru/podstavka-dlya-mikrovolnovoi-pechi-gembird-wm-u35-01-w-belyi.html",
+          "lastmod": "2025-09-07T23:46:07+03:00"
+        }
+      ]
+    },
+    {
+      "loc": "https://darwin.md/media/sitemaps/accesorii-coolere-478.xml",
+      "lastmod": "2025-09-08T00:00:24+03:00",
+      "type": "urlset",
+      "total_urls": 22,
+      "sample_urls": [
+        {
+          "loc": "https://darwin.md/kit-pentru-montare-cooler-be-quiet-evk104.html",
+          "lastmod": "2025-09-06T23:37:31+03:00"
+        },
+        {
+          "loc": "https://darwin.md/ru/komplekt-dlya-krepleniya-kulera-be-quiet-evk104.html",
+          "lastmod": "2025-09-06T23:37:31+03:00"
+        },
+        {
+          "loc": "https://darwin.md/kit-pentru-montare-cooler-be-quiet-evk105.html",
+          "lastmod": "2025-09-07T18:51:05+03:00"
+        },
+        {
+          "loc": "https://darwin.md/ru/komplekt-dlya-krepleniya-kulera-be-quiet-evk105.html",
+          "lastmod": "2025-09-07T18:51:05+03:00"
+        },
+        {
+          "loc": "https://darwin.md/accesorii-coolere-deepcool-em109-mknnin-g-1.html",
+          "lastmod": "2025-09-06T22:31:55+03:00"
+        }
+      ]
+    },
+    {
+      "loc": "https://darwin.md/media/sitemaps/accesorii-pentru-camere-web-479.xml",
+      "lastmod": "2025-09-08T00:00:24+03:00",
+      "type": "urlset",
+      "total_urls": 6,
+      "sample_urls": [
+        {
+          "loc": "https://darwin.md/suport-pentru-camera-web-logitech-wall-mount-for-video-bars-white.html",
+          "lastmod": "2025-09-07T07:16:52+03:00"
+        },
+        {
+          "loc": "https://darwin.md/ru/suport-pentru-camera-web-logitech-wall-mount-for-video-bars-belyi.html",
+          "lastmod": "2025-09-07T07:16:52+03:00"
+        },
+        {
+          "loc": "https://darwin.md/suport-pentru-camera-web-logitech-tv-mount-for-video-bars-black.html",
+          "lastmod": "2025-09-03T21:08:28+03:00"
+        },
+        {
+          "loc": "https://darwin.md/ru/suport-pentru-camera-web-logitech-tv-mount-for-video-bars-chernyi.html",
+          "lastmod": "2025-09-03T21:08:28+03:00"
+        },
+        {
+          "loc": "https://darwin.md/set-de-montare-logitech-rally-mounting-kit-black.html",
+          "lastmod": "2025-09-05T08:10:02+03:00"
+        }
+      ]
+    },
+    {
+      "loc": "https://darwin.md/media/sitemaps/acumulatoare-pentru-ups-480.xml",
+      "lastmod": "2025-09-08T00:00:24+03:00",
+      "type": "urlset",
+      "total_urls": 66,
+      "sample_urls": [
+        {
+          "loc": "https://darwin.md/acumulator-pentru-ups-ultra-power-6v-12ah-12-v-12-ah.html",
+          "lastmod": "2025-09-07T18:46:46+03:00"
+        },
+        {
+          "loc": "https://darwin.md/ru/akkumulyatornaya-batareya-dlya-ibp-ultra-power-6v-12ah-12-v-12-ac.html",
+          "lastmod": "2025-09-07T18:46:46+03:00"
+        },
+        {
+          "loc": "https://darwin.md/acumulator-pentru-ups-ultra-power-gp9-12-12-v-9-ah-black.html",
+          "lastmod": "2025-09-07T07:21:08+03:00"
+        },
+        {
+          "loc": "https://darwin.md/ru/akkumulyatornaya-batareya-dlya-ibp-ultra-power-gp9-12-12-v-9-ac-cernyi.html",
+          "lastmod": "2025-09-07T07:21:08+03:00"
+        },
+        {
+          "loc": "https://darwin.md/acumulator-pentru-ups-sven-sv645-6-v-45-a-black.html",
+          "lastmod": "2025-09-07T07:16:31+03:00"
+        }
+      ]
+    },
+    {
+      "loc": "https://darwin.md/media/sitemaps/accesorii-periute-de-dinti-481.xml",
+      "lastmod": "2025-09-08T00:00:24+03:00",
+      "type": "urlset",
+      "total_urls": 198,
+      "sample_urls": [
+        {
+          "loc": "https://darwin.md/philips-hx6052-07-white.html",
+          "lastmod": "2025-09-07T15:05:18+03:00"
+        },
+        {
+          "loc": "https://darwin.md/ru/philips-hx6052-07-white.html",
+          "lastmod": "2025-09-07T15:05:18+03:00"
+        },
+        {
+          "loc": "https://darwin.md/rezerva-pentru-periute-de-dinti-xiaomi-nun4010gl-light-gray.html",
+          "lastmod": "2025-09-07T17:14:03+03:00"
+        },
+        {
+          "loc": "https://darwin.md/ru/nasadka-dlya-elektroshhetok-xiaomi-nun4010gl-svetlo-seryi.html",
+          "lastmod": "2025-09-07T17:14:03+03:00"
+        },
+        {
+          "loc": "https://darwin.md/braun-eb20-2-white.html",
+          "lastmod": "2025-09-07T07:37:29+03:00"
+        }
+      ]
+    },
+    {
+      "loc": "https://darwin.md/media/sitemaps/accesorii-pentru-tablete-grafice-482.xml",
+      "lastmod": "2025-09-08T00:00:24+03:00",
+      "type": "urlset",
+      "total_urls": 8,
+      "sample_urls": [
+        {
+          "loc": "https://darwin.md/wacom-texture-sheet-l-standart.html",
+          "lastmod": "2025-09-06T22:44:05+03:00"
+        },
+        {
+          "loc": "https://darwin.md/ru/wacom-texture-sheet-l-standart.html",
+          "lastmod": "2025-09-06T22:44:05+03:00"
+        },
+        {
+          "loc": "https://darwin.md/wacom-texture-sheet-m-smooth.html",
+          "lastmod": "2025-09-07T17:13:47+03:00"
+        },
+        {
+          "loc": "https://darwin.md/ru/wacom-texture-sheet-m-smooth.html",
+          "lastmod": "2025-09-07T17:13:47+03:00"
+        },
+        {
+          "loc": "https://darwin.md/wacom-texture-sheet-m-standart.html",
+          "lastmod": "2025-09-06T22:40:20+03:00"
+        }
+      ]
+    },
+    {
+      "loc": "https://darwin.md/media/sitemaps/gadget-483.xml",
+      "lastmod": "2025-09-08T00:00:24+03:00",
+      "type": "urlset",
+      "total_urls": 14,
+      "sample_urls": [
+        {
+          "loc": "https://darwin.md/xbox-one-x-1tb-white.html",
+          "lastmod": "2025-09-05T17:29:13+03:00"
+        },
+        {
+          "loc": "https://darwin.md/ru/xbox-one-x-1tb-white.html",
+          "lastmod": "2025-09-05T17:29:13+03:00"
+        },
+        {
+          "loc": "https://darwin.md/constructor-xtech-bricks-pull-back-car-5802-177-pcs.html",
+          "lastmod": "2025-09-06T02:42:17+03:00"
+        },
+        {
+          "loc": "https://darwin.md/ru/constructor-xtech-bricks-pull-back-car-5802-177-pcs.html",
+          "lastmod": "2025-09-06T02:42:17+03:00"
+        },
+        {
+          "loc": "https://darwin.md/rc-constructor-xtech-bricks-2-in-1-two-racing-cars-8020-335-.html",
+          "lastmod": "2025-09-06T03:58:48+03:00"
+        }
+      ]
+    },
+    {
+      "loc": "https://darwin.md/media/sitemaps/carti-electronice-484.xml",
+      "lastmod": "2025-09-08T00:00:24+03:00",
+      "type": "urlset",
+      "total_urls": 176,
+      "sample_urls": [
+        {
+          "loc": "https://darwin.md/carte-electronica-kindle-paperwhite-10-generation-6-black.html",
+          "lastmod": "2025-09-07T18:16:24+03:00"
+        },
+        {
+          "loc": "https://darwin.md/ru/elektronnaya-kniga-kindle-paperwhite-10-generation-6-chernyi.html",
+          "lastmod": "2025-09-07T18:16:24+03:00"
+        },
+        {
+          "loc": "https://darwin.md/pocketbook-616-black.html",
+          "lastmod": "2025-09-07T21:10:21+03:00"
+        },
+        {
+          "loc": "https://darwin.md/ru/pocketbook-616-black.html",
+          "lastmod": "2025-09-07T21:10:21+03:00"
+        },
+        {
+          "loc": "https://darwin.md/pocketbook-616-mate-silver.html",
+          "lastmod": "2025-09-07T21:10:45+03:00"
+        }
+      ]
+    },
+    {
+      "loc": "https://darwin.md/media/sitemaps/bratari-inteligente-485.xml",
+      "lastmod": "2025-09-08T00:00:25+03:00",
+      "type": "urlset",
+      "total_urls": 152,
+      "sample_urls": [
+        {
+          "loc": "https://darwin.md/xiaomi-amazfit-arc-activity-sleep-tracker.html",
+          "lastmod": "2025-09-06T19:13:15+03:00"
+        },
+        {
+          "loc": "https://darwin.md/ru/xiaomi-amazfit-arc-activity-sleep-tracker.html",
+          "lastmod": "2025-09-06T19:13:15+03:00"
+        },
+        {
+          "loc": "https://darwin.md/bratara-inteligenta-fitbit-charge-hr-fb405-l-teal.html",
+          "lastmod": "2025-09-07T21:17:46+03:00"
+        },
+        {
+          "loc": "https://darwin.md/ru/bratara-inteligenta-fitbit-charge-hr-fb405-l-teal.html",
+          "lastmod": "2025-09-07T21:17:46+03:00"
+        },
+        {
+          "loc": "https://darwin.md/bratara-inteligenta-fitbit-charge-hr-fb405-l-red.html",
+          "lastmod": "2025-09-06T05:25:33+03:00"
+        }
+      ]
+    },
+    {
+      "loc": "https://darwin.md/media/sitemaps/ceasuri-inteligente-486.xml",
+      "lastmod": "2025-09-08T00:00:25+03:00",
+      "type": "urlset",
+      "total_urls": 1574,
+      "sample_urls": [
+        {
+          "loc": "https://darwin.md/samsung-galaxy-watch-active-r500-black.html",
+          "lastmod": "2025-09-07T22:33:38+03:00"
+        },
+        {
+          "loc": "https://darwin.md/ru/samsung-galaxy-watch-active-r500-black.html",
+          "lastmod": "2025-09-07T22:33:38+03:00"
+        },
+        {
+          "loc": "https://darwin.md/samsung-galaxy-watch-active-r500-green.html",
+          "lastmod": "2025-09-07T15:28:26+03:00"
+        },
+        {
+          "loc": "https://darwin.md/ru/samsung-galaxy-watch-active-r500-green.html",
+          "lastmod": "2025-09-07T15:28:26+03:00"
+        },
+        {
+          "loc": "https://darwin.md/samsung-galaxy-watch-active-r500-silver.html",
+          "lastmod": "2025-09-07T15:28:47+03:00"
+        }
+      ]
+    },
+    {
+      "loc": "https://darwin.md/media/sitemaps/drone-487.xml",
+      "lastmod": "2025-09-08T00:00:26+03:00",
+      "type": "urlset",
+      "total_urls": 224,
+      "sample_urls": [
+        {
+          "loc": "https://darwin.md/traxxas-latrax-alias-quad-rotor-helicopter-victory-green.html",
+          "lastmod": "2025-09-07T22:10:53+03:00"
+        },
+        {
+          "loc": "https://darwin.md/ru/traxxas-latrax-alias-quad-rotor-helicopter-victory-green.html",
+          "lastmod": "2025-09-07T22:10:53+03:00"
+        },
+        {
+          "loc": "https://darwin.md/traxxas-latrax-alias-quad-rotor-helicopter-brilliant-blue.html",
+          "lastmod": "2025-09-07T19:52:08+03:00"
+        },
+        {
+          "loc": "https://darwin.md/ru/traxxas-latrax-alias-quad-rotor-helicopter-brilliant-blue.html",
+          "lastmod": "2025-09-07T19:52:08+03:00"
+        },
+        {
+          "loc": "https://darwin.md/parrot-drone-bebop-2-sky-controller-black-white.html",
+          "lastmod": "2025-09-07T12:01:31+03:00"
+        }
+      ]
+    },
+    {
+      "loc": "https://darwin.md/media/sitemaps/ochelari-vr-489.xml",
+      "lastmod": "2025-09-08T00:00:26+03:00",
+      "type": "urlset",
+      "total_urls": 56,
+      "sample_urls": [
+        {
+          "loc": "https://darwin.md/ochelari-virtuali-bobovr-z4-white.html",
+          "lastmod": "2025-09-07T21:08:17+03:00"
+        },
+        {
+          "loc": "https://darwin.md/ru/ochelari-virtuali-bobovr-z4-white.html",
+          "lastmod": "2025-09-07T21:08:17+03:00"
+        },
+        {
+          "loc": "https://darwin.md/ochelari-realitate-virtuala-bobo-vr-z4-black.html",
+          "lastmod": "2025-09-07T13:38:51+03:00"
+        },
+        {
+          "loc": "https://darwin.md/ru/ochelari-realitate-virtuala-bobo-vr-z4-black.html",
+          "lastmod": "2025-09-07T13:38:51+03:00"
+        },
+        {
+          "loc": "https://darwin.md/vr-bobo-z5-new-black.html",
+          "lastmod": "2025-09-07T08:40:20+03:00"
+        }
+      ]
+    },
+    {
+      "loc": "https://darwin.md/media/sitemaps/casa-si-birou-490.xml",
+      "lastmod": "2025-09-08T00:00:26+03:00",
+      "type": "urlset",
+      "total_urls": 2,
+      "sample_urls": [
+        {
+          "loc": "https://darwin.md/duka-ls-p-laser-range-finder-silver.html",
+          "lastmod": "2025-09-06T17:49:14+03:00"
+        },
+        {
+          "loc": "https://darwin.md/ru/duka-ls-p-laser-range-finder-silver.html",
+          "lastmod": "2025-09-06T17:49:14+03:00"
+        }
+      ]
+    },
+    {
+      "loc": "https://darwin.md/media/sitemaps/senzori-491.xml",
+      "lastmod": "2025-09-08T00:00:26+03:00",
+      "type": "urlset",
+      "total_urls": 488,
+      "sample_urls": [
+        {
+          "loc": "https://darwin.md/tado-smart-thermostatgeolocalization-white.html",
+          "lastmod": "2025-09-07T21:00:39+03:00"
+        },
+        {
+          "loc": "https://darwin.md/ru/tado-smart-thermostatgeolocalization-white.html",
+          "lastmod": "2025-09-07T21:00:39+03:00"
+        },
+        {
+          "loc": "https://darwin.md/xiaomi-mi-smart-human-body-sensor-ytc4004cn-white.html",
+          "lastmod": "2025-09-07T12:16:39+03:00"
+        },
+        {
+          "loc": "https://darwin.md/ru/xiaomi-mi-smart-human-body-sensor-ytc4004cn-white.html",
+          "lastmod": "2025-09-07T12:16:39+03:00"
+        },
+        {
+          "loc": "https://darwin.md/xiaomi-mi-smart-home-door-window-sensors-ytc4005cn-white.html",
+          "lastmod": "2025-09-03T06:53:58+03:00"
+        }
+      ]
+    },
+    {
+      "loc": "https://darwin.md/media/sitemaps/power-bank-493.xml",
+      "lastmod": "2025-09-08T00:00:26+03:00",
+      "type": "urlset",
+      "total_urls": 648,
+      "sample_urls": [
+        {
+          "loc": "https://darwin.md/power-bank-asus-zen-power-10050mah-gold.html",
+          "lastmod": "2025-09-05T10:57:35+03:00"
+        },
+        {
+          "loc": "https://darwin.md/ru/power-bank-asus-zen-power-10050mah-gold.html",
+          "lastmod": "2025-09-05T10:57:35+03:00"
+        },
+        {
+          "loc": "https://darwin.md/power-bank-asus-zen-power-10050mah-pink.html",
+          "lastmod": "2025-09-06T07:42:27+03:00"
+        },
+        {
+          "loc": "https://darwin.md/ru/power-bank-asus-zen-power-10050mah-pink.html",
+          "lastmod": "2025-09-06T07:42:27+03:00"
+        },
+        {
+          "loc": "https://darwin.md/power-bank-asus-zen-power-10050mah-blue.html",
+          "lastmod": "2025-09-03T07:17:57+03:00"
+        }
+      ]
+    },
+    {
+      "loc": "https://darwin.md/media/sitemaps/ceasuri-pentru-copii-cu-gps-494.xml",
+      "lastmod": "2025-09-08T00:00:26+03:00",
+      "type": "urlset",
+      "total_urls": 176,
+      "sample_urls": [
+        {
+          "loc": "https://darwin.md/gps-kids-watch-gw200s-purple.html",
+          "lastmod": "2025-09-07T09:42:00+03:00"
+        },
+        {
+          "loc": "https://darwin.md/ru/gps-kids-watch-gw200s-purple.html",
+          "lastmod": "2025-09-07T09:42:00+03:00"
+        },
+        {
+          "loc": "https://darwin.md/bubble-gps-kids-watch-q50-green.html",
+          "lastmod": "2025-09-07T17:44:33+03:00"
+        },
+        {
+          "loc": "https://darwin.md/ru/bubble-gps-kids-watch-q50-green.html",
+          "lastmod": "2025-09-07T17:44:33+03:00"
+        },
+        {
+          "loc": "https://darwin.md/gw2000-bubble-pink.html",
+          "lastmod": "2025-09-06T00:46:40+03:00"
+        }
+      ]
+    },
+    {
+      "loc": "https://darwin.md/media/sitemaps/aspiratoare-robot-495.xml",
+      "lastmod": "2025-09-08T00:00:27+03:00",
+      "type": "urlset",
+      "total_urls": 286,
+      "sample_urls": [
+        {
+          "loc": "https://darwin.md/xiaomi-mi-roborock-vacuum-cleaner-2-black.html",
+          "lastmod": "2025-09-06T06:39:47+03:00"
+        },
+        {
+          "loc": "https://darwin.md/ru/xiaomi-mi-roborock-vacuum-cleaner-2-black.html",
+          "lastmod": "2025-09-06T06:39:47+03:00"
+        },
+        {
+          "loc": "https://darwin.md/aspirator-ecovacs-deebot-dm87-vacuum-cleaner-white-gray.html",
+          "lastmod": "2025-09-06T16:07:50+03:00"
+        },
+        {
+          "loc": "https://darwin.md/ru/aspirator-ecovacs-deebot-dm87-vacuum-cleaner-white-gray.html",
+          "lastmod": "2025-09-06T16:07:50+03:00"
+        },
+        {
+          "loc": "https://darwin.md/ecovacs-deebot-900-vacuum-cleaner-white.html",
+          "lastmod": "2025-09-07T09:05:37+03:00"
+        }
+      ]
+    },
+    {
+      "loc": "https://darwin.md/media/sitemaps/selfie-sticktrepied-497.xml",
+      "lastmod": "2025-09-08T00:00:27+03:00",
+      "type": "urlset",
+      "total_urls": 280,
+      "sample_urls": [
+        {
+          "loc": "https://darwin.md/monopod-baseus-pink.html",
+          "lastmod": "2025-09-06T22:11:43+03:00"
+        },
+        {
+          "loc": "https://darwin.md/ru/monopod-baseus-pink.html",
+          "lastmod": "2025-09-06T22:11:43+03:00"
+        },
+        {
+          "loc": "https://darwin.md/monopod-hoco-mirror-selfie-stick-zombies-cat-blackred.html",
+          "lastmod": "2025-09-07T21:26:37+03:00"
+        },
+        {
+          "loc": "https://darwin.md/ru/monopod-hoco-mirror-selfie-stick-zombies-cat-blackred.html",
+          "lastmod": "2025-09-07T21:26:37+03:00"
+        },
+        {
+          "loc": "https://darwin.md/monopod-hoco-mirror-selfie-stick-miss-puff-pink.html",
+          "lastmod": "2025-09-07T14:34:59+03:00"
+        }
+      ]
+    },
+    {
+      "loc": "https://darwin.md/media/sitemaps/statii-radio-498.xml",
+      "lastmod": "2025-09-08T00:00:27+03:00",
+      "type": "urlset",
+      "total_urls": 24,
+      "sample_urls": [
+        {
+          "loc": "https://darwin.md/motorola-talkabout-t82-chrg-black-orange.html",
+          "lastmod": "2025-09-04T10:42:27+03:00"
+        },
+        {
+          "loc": "https://darwin.md/ru/motorola-talkabout-t82-chrg-black-orange.html",
+          "lastmod": "2025-09-04T10:42:27+03:00"
+        },
+        {
+          "loc": "https://darwin.md/statii-radio-motorola-talkabout-t62-chrg-blue.html",
+          "lastmod": "2025-09-07T19:36:58+03:00"
+        },
+        {
+          "loc": "https://darwin.md/ru/statii-radio-motorola-talkabout-t62-chrg-blue.html",
+          "lastmod": "2025-09-07T19:36:58+03:00"
+        },
+        {
+          "loc": "https://darwin.md/statii-radio-motorola-talkabout-t42-twin-pack-red.html",
+          "lastmod": "2025-09-07T14:37:53+03:00"
+        }
+      ]
+    },
+    {
+      "loc": "https://darwin.md/media/sitemaps/accesorii-calatorii-500.xml",
+      "lastmod": "2025-09-08T00:00:27+03:00",
+      "type": "urlset",
+      "total_urls": 44,
+      "sample_urls": [
+        {
+          "loc": "https://darwin.md/umbrela-blue-sky-white-clouds-hoco-black.html",
+          "lastmod": "2025-09-07T10:53:29+03:00"
+        },
+        {
+          "loc": "https://darwin.md/ru/umbrela-blue-sky-white-clouds-hoco-black.html",
+          "lastmod": "2025-09-07T10:53:29+03:00"
+        },
+        {
+          "loc": "https://darwin.md/active-a47-4-7-rebeltec-black-green.html",
+          "lastmod": "2025-09-03T07:11:17+03:00"
+        },
+        {
+          "loc": "https://darwin.md/ru/active-a47-4-7-rebeltec-black-green.html",
+          "lastmod": "2025-09-03T07:11:17+03:00"
+        },
+        {
+          "loc": "https://darwin.md/enlarget-screen-f1-black.html",
+          "lastmod": "2025-09-05T05:34:08+03:00"
+        }
+      ]
+    },
+    {
+      "loc": "https://darwin.md/media/sitemaps/smart-trackers-501.xml",
+      "lastmod": "2025-09-08T00:00:27+03:00",
+      "type": "urlset",
+      "total_urls": 84,
+      "sample_urls": [
+        {
+          "loc": "https://darwin.md/fitnes-tracker-pt-animale-petfit-wepetfit-red.html",
+          "lastmod": "2025-09-07T16:41:17+03:00"
+        },
+        {
+          "loc": "https://darwin.md/ru/fitnes-tracker-pt-animale-petfit-wepetfit-red.html",
+          "lastmod": "2025-09-07T16:41:17+03:00"
+        },
+        {
+          "loc": "https://darwin.md/tracker-pt-animale-pet-remote-tractive-white.html",
+          "lastmod": "2025-09-07T21:09:54+03:00"
+        },
+        {
+          "loc": "https://darwin.md/ru/tracker-pt-animale-pet-remote-tractive-white.html",
+          "lastmod": "2025-09-07T21:09:54+03:00"
+        },
+        {
+          "loc": "https://darwin.md/gps-smart-tracker-s03-wonlex-light-blue.html",
+          "lastmod": "2025-09-07T02:59:29+03:00"
+        }
+      ]
+    },
+    {
+      "loc": "https://darwin.md/media/sitemaps/inele-smart-502.xml",
+      "lastmod": "2025-09-08T00:00:27+03:00",
+      "type": "urlset",
+      "total_urls": 6,
+      "sample_urls": [
+        {
+          "loc": "https://darwin.md/inel-smart-amovan-nova-gold-7.html",
+          "lastmod": "2025-09-07T23:57:19+03:00"
+        },
+        {
+          "loc": "https://darwin.md/ru/umnoe-kolco-amovan-nova-zoloto-7.html",
+          "lastmod": "2025-09-07T23:57:19+03:00"
+        },
+        {
+          "loc": "https://darwin.md/inel-smart-amovan-nova-silver-9.html",
+          "lastmod": "2025-09-07T17:42:30+03:00"
+        },
+        {
+          "loc": "https://darwin.md/ru/umnoe-kolco-amovan-nova-serebristyi-9.html",
+          "lastmod": "2025-09-07T17:42:30+03:00"
+        },
+        {
+          "loc": "https://darwin.md/inel-smart-amovan-nova-black-10.html",
+          "lastmod": "2025-09-07T22:19:02+03:00"
+        }
+      ]
+    },
+    {
+      "loc": "https://darwin.md/media/sitemaps/periferice-pc-503.xml",
+      "lastmod": "2025-09-08T00:00:27+03:00",
+      "type": "urlset",
+      "total_urls": 2,
+      "sample_urls": [
+        {
+          "loc": "https://darwin.md/smart-tank-615-hp-mfd-sn-blackgray.html",
+          "lastmod": "2025-09-03T17:22:05+03:00"
+        },
+        {
+          "loc": "https://darwin.md/ru/smart-tank-615-hp-mfd-sn-blackgray.html",
+          "lastmod": "2025-09-03T17:22:05+03:00"
+        }
+      ]
+    },
+    {
+      "loc": "https://darwin.md/media/sitemaps/tastaturi-504.xml",
+      "lastmod": "2025-09-08T00:00:27+03:00",
+      "type": "urlset",
+      "total_urls": 642,
+      "sample_urls": [
+        {
+          "loc": "https://darwin.md/logitech-mk120-set-black.html",
+          "lastmod": "2025-09-07T12:47:38+03:00"
+        },
+        {
+          "loc": "https://darwin.md/ru/logitech-mk120-set-black.html",
+          "lastmod": "2025-09-07T12:47:38+03:00"
+        },
+        {
+          "loc": "https://darwin.md/sven-comfort-3050-white.html",
+          "lastmod": "2025-09-07T08:40:47+03:00"
+        },
+        {
+          "loc": "https://darwin.md/ru/sven-comfort-3050-white.html",
+          "lastmod": "2025-09-07T08:40:47+03:00"
+        },
+        {
+          "loc": "https://darwin.md/sven-standard-303-black.html",
+          "lastmod": "2025-09-07T13:51:13+03:00"
+        }
+      ]
+    },
+    {
+      "loc": "https://darwin.md/media/sitemaps/mouse-uri-505.xml",
+      "lastmod": "2025-09-08T00:00:28+03:00",
+      "type": "urlset",
+      "total_urls": 1096,
+      "sample_urls": [
+        {
+          "loc": "https://darwin.md/mouse-wireless-m185-logitech-logitech-1.html",
+          "lastmod": "2025-09-07T23:36:28+03:00"
+        },
+        {
+          "loc": "https://darwin.md/ru/mouse-wireless-m185-logitech-logitech-1.html",
+          "lastmod": "2025-09-07T23:36:28+03:00"
+        },
+        {
+          "loc": "https://darwin.md/mouse-wireless-m185-logitech-logitech.html",
+          "lastmod": "2025-09-07T13:42:49+03:00"
+        },
+        {
+          "loc": "https://darwin.md/ru/mouse-wireless-m185-logitech-logitech.html",
+          "lastmod": "2025-09-07T13:42:49+03:00"
+        },
+        {
+          "loc": "https://darwin.md/mouse-optical-logitech-m185-wireless-red.html",
+          "lastmod": "2025-09-07T13:42:49+03:00"
+        }
+      ]
+    },
+    {
+      "loc": "https://darwin.md/media/sitemaps/camere-web-506.xml",
+      "lastmod": "2025-09-08T00:00:28+03:00",
+      "type": "urlset",
+      "total_urls": 182,
+      "sample_urls": [
+        {
+          "loc": "https://darwin.md/webcam-sven-ic-300-blacksilver.html",
+          "lastmod": "2025-09-07T02:54:20+03:00"
+        },
+        {
+          "loc": "https://darwin.md/ru/webcam-sven-ic-300-blacksilver.html",
+          "lastmod": "2025-09-07T02:54:20+03:00"
+        },
+        {
+          "loc": "https://darwin.md/webcam-sven-ic-320-black-silver.html",
+          "lastmod": "2025-09-06T21:53:08+03:00"
+        },
+        {
+          "loc": "https://darwin.md/ru/webcam-sven-ic-320-black-silver.html",
+          "lastmod": "2025-09-06T21:53:08+03:00"
+        },
+        {
+          "loc": "https://darwin.md/webcam-logitech-c270-hd.html",
+          "lastmod": "2025-09-07T19:52:37+03:00"
+        }
+      ]
+    },
+    {
+      "loc": "https://darwin.md/media/sitemaps/ups-507.xml",
+      "lastmod": "2025-09-08T00:00:29+03:00",
+      "type": "urlset",
+      "total_urls": 556,
+      "sample_urls": [
+        {
+          "loc": "https://darwin.md/ups-sven-rt-1000-600w.html",
+          "lastmod": "2025-09-07T22:10:07+03:00"
+        },
+        {
+          "loc": "https://darwin.md/ru/ups-sven-rt-1000-600w.html",
+          "lastmod": "2025-09-07T22:10:07+03:00"
+        },
+        {
+          "loc": "https://darwin.md/ups-ultra-powe-500va-plastic-case2-germany-sockets.htmll.html",
+          "lastmod": "2025-09-07T06:06:36+03:00"
+        },
+        {
+          "loc": "https://darwin.md/ru/ups-ultra-powe-500va-plastic-case2-germany-sockets.htmll.html",
+          "lastmod": "2025-09-07T06:06:36+03:00"
+        },
+        {
+          "loc": "https://darwin.md/ups-sven-rt-500-300w-line-interactive.html",
+          "lastmod": "2025-09-07T17:11:54+03:00"
+        }
+      ]
+    },
+    {
+      "loc": "https://darwin.md/media/sitemaps/suporturi-de-racire-508.xml",
+      "lastmod": "2025-09-08T00:00:29+03:00",
+      "type": "urlset",
+      "total_urls": 74,
+      "sample_urls": [
+        {
+          "loc": "https://darwin.md/u-pal-deepcool-156.html",
+          "lastmod": "2025-09-07T21:53:34+03:00"
+        },
+        {
+          "loc": "https://darwin.md/ru/u-pal-deepcool-156.html",
+          "lastmod": "2025-09-07T21:53:34+03:00"
+        },
+        {
+          "loc": "https://darwin.md/deepcool-multicore-x6-156.html",
+          "lastmod": "2025-09-07T21:05:42+03:00"
+        },
+        {
+          "loc": "https://darwin.md/ru/deepcool-multicore-x6-156.html",
+          "lastmod": "2025-09-07T21:05:42+03:00"
+        },
+        {
+          "loc": "https://darwin.md/wind-pal-mini-deepcool-156.html",
+          "lastmod": "2025-09-07T21:03:31+03:00"
+        }
+      ]
+    },
+    {
+      "loc": "https://darwin.md/media/sitemaps/mouse-pad-uri-509.xml",
+      "lastmod": "2025-09-08T00:00:29+03:00",
+      "type": "urlset",
+      "total_urls": 238,
+      "sample_urls": [
+        {
+          "loc": "https://darwin.md/mouse-pad-gel-sven-gl-009bk-black.html",
+          "lastmod": "2025-09-07T19:07:33+03:00"
+        },
+        {
+          "loc": "https://darwin.md/ru/mouse-pad-gel-sven-gl-009bk-black.html",
+          "lastmod": "2025-09-07T19:07:33+03:00"
+        },
+        {
+          "loc": "https://darwin.md/sven-hp-black.html",
+          "lastmod": "2025-09-07T21:31:05+03:00"
+        },
+        {
+          "loc": "https://darwin.md/ru/sven-hp-black.html",
+          "lastmod": "2025-09-07T21:31:05+03:00"
+        },
+        {
+          "loc": "https://darwin.md/sven-hc-01-01-dark-blue.html",
+          "lastmod": "2025-09-07T02:44:21+03:00"
+        }
+      ]
+    },
+    {
+      "loc": "https://darwin.md/media/sitemaps/carcase-pentru-unitati-de-stocare-510.xml",
+      "lastmod": "2025-09-08T00:00:29+03:00",
+      "type": "urlset",
+      "total_urls": 72,
+      "sample_urls": [
+        {
+          "loc": "https://darwin.md/gembird-ee2-u3s-2-s-silver.html",
+          "lastmod": "2025-09-07T11:53:50+03:00"
+        },
+        {
+          "loc": "https://darwin.md/ru/gembird-ee2-u3s-2-s-silver.html",
+          "lastmod": "2025-09-07T11:53:50+03:00"
+        },
+        {
+          "loc": "https://darwin.md/adata-xpg-ex500-red.html",
+          "lastmod": "2025-09-07T07:21:32+03:00"
+        },
+        {
+          "loc": "https://darwin.md/ru/adata-xpg-ex500-red.html",
+          "lastmod": "2025-09-07T07:21:32+03:00"
+        },
+        {
+          "loc": "https://darwin.md/gembird-ee2-u2s-5-silver.html",
+          "lastmod": "2025-09-07T07:21:32+03:00"
+        }
+      ]
+    },
+    {
+      "loc": "https://darwin.md/media/sitemaps/procesoare-512.xml",
+      "lastmod": "2025-09-08T00:00:29+03:00",
+      "type": "urlset",
+      "total_urls": 436,
+      "sample_urls": [
+        {
+          "loc": "https://darwin.md/procesor-amd-ryzen-5-box-am4-360-ghz-390-ghz.html",
+          "lastmod": "2025-09-03T07:55:50+03:00"
+        },
+        {
+          "loc": "https://darwin.md/ru/processor-amd-ryzen-5-box-am4-360-ggc-390-ggc.html",
+          "lastmod": "2025-09-03T07:55:50+03:00"
+        },
+        {
+          "loc": "https://darwin.md/intel-core-i5-8500-3-0-4-1ghz-tray.html",
+          "lastmod": "2025-09-07T08:27:25+03:00"
+        },
+        {
+          "loc": "https://darwin.md/ru/intel-core-i5-8500-3-0-4-1ghz-tray.html",
+          "lastmod": "2025-09-07T08:27:25+03:00"
+        },
+        {
+          "loc": "https://darwin.md/intel-pentium-g4560.html",
+          "lastmod": "2025-09-07T13:41:13+03:00"
+        }
+      ]
+    },
+    {
+      "loc": "https://darwin.md/media/sitemaps/coolere-513.xml",
+      "lastmod": "2025-09-08T00:00:29+03:00",
+      "type": "urlset",
+      "total_urls": 692,
+      "sample_urls": [
+        {
+          "loc": "https://darwin.md/deepcool-ewdc-gammaarcher.html",
+          "lastmod": "2025-09-07T19:53:19+03:00"
+        },
+        {
+          "loc": "https://darwin.md/ru/deepcool-ewdc-gammaarcher.html",
+          "lastmod": "2025-09-07T19:53:19+03:00"
+        },
+        {
+          "loc": "https://darwin.md/deepcool-ck-11509.html",
+          "lastmod": "2025-09-06T14:57:10+03:00"
+        },
+        {
+          "loc": "https://darwin.md/ru/deepcool-ck-11509.html",
+          "lastmod": "2025-09-06T14:57:10+03:00"
+        },
+        {
+          "loc": "https://darwin.md/deepcool-ewdc-theta21-pwm.html",
+          "lastmod": "2025-09-06T23:50:29+03:00"
+        }
+      ]
+    },
+    {
+      "loc": "https://darwin.md/media/sitemaps/placi-de-baza-514.xml",
+      "lastmod": "2025-09-08T00:00:30+03:00",
+      "type": "urlset",
+      "total_urls": 1018,
+      "sample_urls": [
+        {
+          "loc": "https://darwin.md/asrock-h110m-hdv-r3-0-intel-h110-matx.html",
+          "lastmod": "2025-09-06T15:32:13+03:00"
+        },
+        {
+          "loc": "https://darwin.md/ru/asrock-h110m-hdv-r3-0-intel-h110-matx.html",
+          "lastmod": "2025-09-06T15:32:13+03:00"
+        },
+        {
+          "loc": "https://darwin.md/asrock-h310m-hdv.html",
+          "lastmod": "2025-09-04T23:28:03+03:00"
+        },
+        {
+          "loc": "https://darwin.md/ru/asrock-h310m-hdv.html",
+          "lastmod": "2025-09-04T23:28:03+03:00"
+        },
+        {
+          "loc": "https://darwin.md/asus-rog-strix-b360-g-gaming.html",
+          "lastmod": "2025-09-06T12:41:58+03:00"
+        }
+      ]
+    },
+    {
+      "loc": "https://darwin.md/media/sitemaps/memorie-ram-515.xml",
+      "lastmod": "2025-09-08T00:00:31+03:00",
+      "type": "urlset",
+      "total_urls": 952,
+      "sample_urls": [
+        {
+          "loc": "https://darwin.md/16gb-ddr4-2133mhz-hynix-original.html",
+          "lastmod": "2025-09-07T16:59:40+03:00"
+        },
+        {
+          "loc": "https://darwin.md/ru/16gb-ddr4-2133mhz-hynix-original.html",
+          "lastmod": "2025-09-07T16:59:40+03:00"
+        },
+        {
+          "loc": "https://darwin.md/16gb-ddr4-2133mhz-samsung-original.html",
+          "lastmod": "2025-09-03T08:29:41+03:00"
+        },
+        {
+          "loc": "https://darwin.md/ru/16gb-ddr4-2133mhz-samsung-original.html",
+          "lastmod": "2025-09-03T08:29:41+03:00"
+        },
+        {
+          "loc": "https://darwin.md/2gb-ddr4-2400mhz-samsung-m-original.html",
+          "lastmod": "2025-09-07T01:09:16+03:00"
+        }
+      ]
+    },
+    {
+      "loc": "https://darwin.md/media/sitemaps/placi-video-516.xml",
+      "lastmod": "2025-09-08T00:00:31+03:00",
+      "type": "urlset",
+      "total_urls": 1098,
+      "sample_urls": [
+        {
+          "loc": "https://darwin.md/asus-gt1030-2g-brk-2gb.html",
+          "lastmod": "2025-09-07T19:20:36+03:00"
+        },
+        {
+          "loc": "https://darwin.md/ru/asus-gt1030-2g-brk-2gb.html",
+          "lastmod": "2025-09-07T19:20:36+03:00"
+        },
+        {
+          "loc": "https://darwin.md/gigabyte-gv-rx560gaming-oc-4gd-4gb.html",
+          "lastmod": "2025-09-07T23:25:15+03:00"
+        },
+        {
+          "loc": "https://darwin.md/ru/gigabyte-gv-rx560gaming-oc-4gd-4gb.html",
+          "lastmod": "2025-09-07T23:25:15+03:00"
+        },
+        {
+          "loc": "https://darwin.md/gigabyte-gv-n2080gaming-oc-8gc-8gb.html",
+          "lastmod": "2025-09-06T07:27:17+03:00"
+        }
+      ]
+    },
+    {
+      "loc": "https://darwin.md/media/sitemaps/dvd-rw-517.xml",
+      "lastmod": "2025-09-08T00:00:31+03:00",
+      "type": "urlset",
+      "total_urls": 20,
+      "sample_urls": [
+        {
+          "loc": "https://darwin.md/lg-gud0n-sata-black.html",
+          "lastmod": "2025-09-05T20:13:20+03:00"
+        },
+        {
+          "loc": "https://darwin.md/ru/lg-gud0n-sata-black.html",
+          "lastmod": "2025-09-05T20:13:20+03:00"
+        },
+        {
+          "loc": "https://darwin.md/transcend-ts8xdvds-black-usb20.html",
+          "lastmod": "2025-09-07T13:19:07+03:00"
+        },
+        {
+          "loc": "https://darwin.md/ru/transcend-ts8xdvds-black-usb20.html",
+          "lastmod": "2025-09-07T13:19:07+03:00"
+        },
+        {
+          "loc": "https://darwin.md/transcend-ts8xdvds-white-usb20.html",
+          "lastmod": "2025-09-07T11:03:54+03:00"
+        }
+      ]
+    },
+    {
+      "loc": "https://darwin.md/media/sitemaps/carcase-518.xml",
+      "lastmod": "2025-09-08T00:00:32+03:00",
+      "type": "urlset",
+      "total_urls": 728,
+      "sample_urls": [
+        {
+          "loc": "https://darwin.md/atx-550w-sohoo-5911bk-black.html",
+          "lastmod": "2025-09-07T23:15:55+03:00"
+        },
+        {
+          "loc": "https://darwin.md/ru/atx-550w-sohoo-5911bk-black.html",
+          "lastmod": "2025-09-07T23:15:55+03:00"
+        },
+        {
+          "loc": "https://darwin.md/sohoo-5908bg-500w-black-gray.html",
+          "lastmod": "2025-09-06T17:16:55+03:00"
+        },
+        {
+          "loc": "https://darwin.md/ru/sohoo-5908bg-500w-black-gray.html",
+          "lastmod": "2025-09-06T17:16:55+03:00"
+        },
+        {
+          "loc": "https://darwin.md/gamemax-h601br-black-red.html",
+          "lastmod": "2025-09-07T22:41:09+03:00"
+        }
+      ]
+    },
+    {
+      "loc": "https://darwin.md/media/sitemaps/surse-pc-519.xml",
+      "lastmod": "2025-09-08T00:00:32+03:00",
+      "type": "urlset",
+      "total_urls": 594,
+      "sample_urls": [
+        {
+          "loc": "https://darwin.md/power-supply-atx-550w-sohoo.html",
+          "lastmod": "2025-09-07T16:33:32+03:00"
+        },
+        {
+          "loc": "https://darwin.md/ru/power-supply-atx-550w-sohoo.html",
+          "lastmod": "2025-09-07T16:33:32+03:00"
+        },
+        {
+          "loc": "https://darwin.md/power-supply-atx-500w-chieftec-gps-500a8.html",
+          "lastmod": "2025-09-06T16:12:43+03:00"
+        },
+        {
+          "loc": "https://darwin.md/ru/power-supply-atx-500w-chieftec-gps-500a8.html",
+          "lastmod": "2025-09-06T16:12:43+03:00"
+        },
+        {
+          "loc": "https://darwin.md/power-supply-atx-600w-chieftec-gps-600a8.html",
+          "lastmod": "2025-09-06T16:10:13+03:00"
+        }
+      ]
+    },
+    {
+      "loc": "https://darwin.md/media/sitemaps/hard-disk-hdd-521.xml",
+      "lastmod": "2025-09-08T00:00:32+03:00",
+      "type": "urlset",
+      "total_urls": 342,
+      "sample_urls": [
+        {
+          "loc": "https://darwin.md/western-digital-blue-wd10ezex-3-5-hdd-1-0tb-sata-64mb.html",
+          "lastmod": "2025-09-07T21:21:22+03:00"
+        },
+        {
+          "loc": "https://darwin.md/ru/western-digital-blue-wd10ezex-3-5-hdd-1-0tb-sata-64mb.html",
+          "lastmod": "2025-09-07T21:21:22+03:00"
+        },
+        {
+          "loc": "https://darwin.md/western-digital-red-wd10efrx-3-5-hdd-1-0tb-sata--64mb.html",
+          "lastmod": "2025-09-07T19:51:29+03:00"
+        },
+        {
+          "loc": "https://darwin.md/ru/western-digital-red-wd10efrx-3-5-hdd-1-0tb-sata--64mb.html",
+          "lastmod": "2025-09-07T19:51:29+03:00"
+        },
+        {
+          "loc": "https://darwin.md/toshiba-surveillance-md04aba400v-3-5-hdd-4-0tb-sata-128mb.ht.html",
+          "lastmod": "2025-09-06T17:16:18+03:00"
+        }
+      ]
+    },
+    {
+      "loc": "https://darwin.md/media/sitemaps/solid-state-drive-ssd-522.xml",
+      "lastmod": "2025-09-08T00:00:33+03:00",
+      "type": "urlset",
+      "total_urls": 710,
+      "sample_urls": [
+        {
+          "loc": "https://darwin.md/transcend-ssd370-2.5-sata-ssd-64gb.html",
+          "lastmod": "2025-09-07T19:40:15+03:00"
+        },
+        {
+          "loc": "https://darwin.md/ru/transcend-ssd370-2.5-sata-ssd-64gb.html",
+          "lastmod": "2025-09-07T19:40:15+03:00"
+        },
+        {
+          "loc": "https://darwin.md/transcend-ts120gmts820-m.2-ssd-120gb.html",
+          "lastmod": "2025-09-07T21:15:30+03:00"
+        },
+        {
+          "loc": "https://darwin.md/ru/transcend-ts120gmts820-m.2-ssd-120gb.html",
+          "lastmod": "2025-09-07T21:15:30+03:00"
+        },
+        {
+          "loc": "https://darwin.md/transcend-ssd230-2.5-sata-ssd-256gb.html",
+          "lastmod": "2025-09-07T07:38:04+03:00"
+        }
+      ]
+    },
+    {
+      "loc": "https://darwin.md/media/sitemaps/produse-pentru-adulti-18-525.xml",
+      "lastmod": "2025-09-08T00:00:33+03:00",
+      "type": "urlset",
+      "total_urls": 2,
+      "sample_urls": [
+        {
+          "loc": "https://darwin.md/toy-for-men-arcwave-ion-pleasure-air-stroker-black.html",
+          "lastmod": "2025-09-06T17:28:45+03:00"
+        },
+        {
+          "loc": "https://darwin.md/ru/toy-for-men-arcwave-ion-pleasure-air-stroker-black.html",
+          "lastmod": "2025-09-06T17:28:45+03:00"
+        }
+      ]
+    },
+    {
+      "loc": "https://darwin.md/media/sitemaps/vibratoare-526.xml",
+      "lastmod": "2025-09-08T00:00:33+03:00",
+      "type": "urlset",
+      "total_urls": 244,
+      "sample_urls": [
+        {
+          "loc": "https://darwin.md/vibrator-we-vibe-ditto-purple.html",
+          "lastmod": "2025-09-07T17:40:37+03:00"
+        },
+        {
+          "loc": "https://darwin.md/ru/vibrator-we-vibe-ditto-purple.html",
+          "lastmod": "2025-09-07T17:40:37+03:00"
+        },
+        {
+          "loc": "https://darwin.md/vibrator-we-vibe-jive-blue-snjvsg5.html",
+          "lastmod": "2025-09-07T14:33:19+03:00"
+        },
+        {
+          "loc": "https://darwin.md/ru/vibrator-we-vibe-jive-blue-snjvsg5.html",
+          "lastmod": "2025-09-07T14:33:19+03:00"
+        },
+        {
+          "loc": "https://darwin.md/vibrator-we-vibe-chorus-cosmic-pink.html",
+          "lastmod": "2025-09-07T21:36:32+03:00"
+        }
+      ]
+    },
+    {
+      "loc": "https://darwin.md/media/sitemaps/vibrostimulatoare-527.xml",
+      "lastmod": "2025-09-08T00:00:33+03:00",
+      "type": "urlset",
+      "total_urls": 80,
+      "sample_urls": [
+        {
+          "loc": "https://darwin.md/vibrostimulator-clitoridian-womanizer-duo-bordeaux.html",
+          "lastmod": "2025-09-07T03:45:04+03:00"
+        },
+        {
+          "loc": "https://darwin.md/ru/vibrostimulator-clitoridian-womanizer-duo-bordeaux.html",
+          "lastmod": "2025-09-07T03:45:04+03:00"
+        },
+        {
+          "loc": "https://darwin.md/vibrostimulator-clitoridian-womanizer-liberty-pink-rose.html",
+          "lastmod": "2025-09-07T08:02:33+03:00"
+        },
+        {
+          "loc": "https://darwin.md/ru/vibrostimulator-clitoridian-womanizer-liberty-pink-rose.html",
+          "lastmod": "2025-09-07T08:02:33+03:00"
+        },
+        {
+          "loc": "https://darwin.md/vibrostimulator-clitoridian-womanizer-premium-whitechrome.ht.html",
+          "lastmod": "2025-09-07T03:44:29+03:00"
+        }
+      ]
+    },
+    {
+      "loc": "https://darwin.md/media/sitemaps/bile-vaginale-528.xml",
+      "lastmod": "2025-09-08T00:00:33+03:00",
+      "type": "urlset",
+      "total_urls": 28,
+      "sample_urls": [
+        {
+          "loc": "https://darwin.md/bile-vaginale-fifty-shades-of-grey-inner-goddess-2bile-silver.html",
+          "lastmod": "2025-09-07T13:07:43+03:00"
+        },
+        {
+          "loc": "https://darwin.md/ru/vaginalnye-sariki-fifty-shades-of-grey-inner-goddess-2sarika-serebristyi.html",
+          "lastmod": "2025-09-07T13:07:43+03:00"
+        },
+        {
+          "loc": "https://darwin.md/bile-vaginale-velvet-balls-3bile-violet.html",
+          "lastmod": "2025-09-07T08:25:13+03:00"
+        },
+        {
+          "loc": "https://darwin.md/ru/vaginalnye-sariki-velvet-balls-3sarika-fioletovyi.html",
+          "lastmod": "2025-09-07T08:25:13+03:00"
+        },
+        {
+          "loc": "https://darwin.md/bile-vaginale-you2toys-velvet-balls-4bile-black.html",
+          "lastmod": "2025-09-07T08:56:29+03:00"
+        }
+      ]
+    },
+    {
+      "loc": "https://darwin.md/media/sitemaps/dildo-529.xml",
+      "lastmod": "2025-09-08T00:00:33+03:00",
+      "type": "urlset",
+      "total_urls": 36,
+      "sample_urls": [
+        {
+          "loc": "https://darwin.md/dildo-elegant-series-european-lover-beige.html",
+          "lastmod": "2025-09-07T23:13:54+03:00"
+        },
+        {
+          "loc": "https://darwin.md/ru/dildo-elegant-series-european-lover-bezevyi.html",
+          "lastmod": "2025-09-07T23:13:54+03:00"
+        },
+        {
+          "loc": "https://darwin.md/dildo-elegant-series-european-lover-beigehtml.html",
+          "lastmod": "2025-09-07T02:04:40+03:00"
+        },
+        {
+          "loc": "https://darwin.md/ru/dildo-elegant-series-european-lover-bezevyihtml.html",
+          "lastmod": "2025-09-07T02:04:40+03:00"
+        },
+        {
+          "loc": "https://darwin.md/dildo-elegant-series-european-lover-black.html",
+          "lastmod": "2025-09-07T20:01:20+03:00"
+        }
+      ]
+    },
+    {
+      "loc": "https://darwin.md/media/sitemaps/strapoane-530.xml",
+      "lastmod": "2025-09-08T00:00:33+03:00",
+      "type": "urlset",
+      "total_urls": 8,
+      "sample_urls": [
+        {
+          "loc": "https://darwin.md/strap-on-you2toys-double-strap-on-black.html",
+          "lastmod": "2025-09-07T02:42:15+03:00"
+        },
+        {
+          "loc": "https://darwin.md/ru/strapon-you2toys-double-strap-on-cernyi.html",
+          "lastmod": "2025-09-07T02:42:15+03:00"
+        },
+        {
+          "loc": "https://darwin.md/strapon-you2toys-vibrating-strap-on-duo-violet.html",
+          "lastmod": "2025-09-07T07:21:50+03:00"
+        },
+        {
+          "loc": "https://darwin.md/ru/strapon-you2toys-vibrating-strap-on-duo-fioletovyi.html",
+          "lastmod": "2025-09-07T07:21:50+03:00"
+        },
+        {
+          "loc": "https://darwin.md/strapon-you2toys-double-dong-beige.html",
+          "lastmod": "2025-09-07T23:50:36+03:00"
+        }
+      ]
+    },
+    {
+      "loc": "https://darwin.md/media/sitemaps/lenjerie-sexy-531.xml",
+      "lastmod": "2025-09-08T00:00:33+03:00",
+      "type": "urlset",
+      "total_urls": 110,
+      "sample_urls": [
+        {
+          "loc": "https://darwin.md/set-lengerie-cotelli-lingerie-cotelli-lace-suspender-m-black.html",
+          "lastmod": "2025-09-06T16:38:36+03:00"
+        },
+        {
+          "loc": "https://darwin.md/ru/komplekt-niznego-belya-cotelli-lingerie-cotelli-lace-suspender-m-cernyi.html",
+          "lastmod": "2025-09-06T16:38:36+03:00"
+        },
+        {
+          "loc": "https://darwin.md/set-lengerie-cottelli-bra-set-for-bondage-games-s-black.html",
+          "lastmod": "2025-09-07T06:11:26+03:00"
+        },
+        {
+          "loc": "https://darwin.md/ru/komplekt-niznego-belya-cottelli-bra-set-for-bondage-games-s-cernyi.html",
+          "lastmod": "2025-09-07T06:11:26+03:00"
+        },
+        {
+          "loc": "https://darwin.md/set-lengerie-cotelli-lingerie-cotelli-lace-suspender-s-black.html",
+          "lastmod": "2025-09-07T15:39:57+03:00"
+        }
+      ]
+    },
+    {
+      "loc": "https://darwin.md/media/sitemaps/jucarii-anale-532.xml",
+      "lastmod": "2025-09-08T00:00:33+03:00",
+      "type": "urlset",
+      "total_urls": 52,
+      "sample_urls": [
+        {
+          "loc": "https://darwin.md/jucarie-anala-you2toys-aluminium-butt-plug-silver.html",
+          "lastmod": "2025-09-03T12:35:56+03:00"
+        },
+        {
+          "loc": "https://darwin.md/ru/analnaya-igruska-you2toys-aluminium-butt-plug-serebristyi.html",
+          "lastmod": "2025-09-03T12:35:56+03:00"
+        },
+        {
+          "loc": "https://darwin.md/dus-intim-you2toys-anal-shower-transparent.html",
+          "lastmod": "2025-09-07T21:19:24+03:00"
+        },
+        {
+          "loc": "https://darwin.md/ru/intimnyi-dus-you2toys-anal-shower-prozracnyi.html",
+          "lastmod": "2025-09-07T21:19:24+03:00"
+        },
+        {
+          "loc": "https://darwin.md/jucarie-anala-fanny-hills-butt-plug-black.html",
+          "lastmod": "2025-09-06T18:31:45+03:00"
+        }
+      ]
+    },
+    {
+      "loc": "https://darwin.md/media/sitemaps/masturbatoare-533.xml",
+      "lastmod": "2025-09-08T00:00:33+03:00",
+      "type": "urlset",
+      "total_urls": 102,
+      "sample_urls": [
+        {
+          "loc": "https://darwin.md/masturbator-pipedream-extreme-fuck-me-silly-beige.html",
+          "lastmod": "2025-09-07T23:50:44+03:00"
+        },
+        {
+          "loc": "https://darwin.md/ru/masturbator-pipedream-extreme-fuck-me-silly-bezevyi.html",
+          "lastmod": "2025-09-07T23:50:44+03:00"
+        },
+        {
+          "loc": "https://darwin.md/masturbator-tenga-flip-0-zero-white.html",
+          "lastmod": "2025-09-07T18:38:20+03:00"
+        },
+        {
+          "loc": "https://darwin.md/ru/masturbator-tenga-flip-0-zero-belyi.html",
+          "lastmod": "2025-09-07T18:38:20+03:00"
+        },
+        {
+          "loc": "https://darwin.md/masturbator-fleshlight-masturbator-gray.html",
+          "lastmod": "2025-09-07T23:13:54+03:00"
+        }
+      ]
+    },
+    {
+      "loc": "https://darwin.md/media/sitemaps/lubrifianti-534.xml",
+      "lastmod": "2025-09-08T00:00:33+03:00",
+      "type": "urlset",
+      "total_urls": 98,
+      "sample_urls": [
+        {
+          "loc": "https://darwin.md/lubrifiant-just-glide-water-base-fara-miros-1000-ml.html",
+          "lastmod": "2025-09-07T20:30:16+03:00"
+        },
+        {
+          "loc": "https://darwin.md/ru/smazka-just-glide-water-base-bez-zapaxa-1000-ml.html",
+          "lastmod": "2025-09-07T20:30:16+03:00"
+        },
+        {
+          "loc": "https://darwin.md/ulei-pentru-masaj-flutschi-flutschi-orgy-oil.html",
+          "lastmod": "2025-09-07T19:13:44+03:00"
+        },
+        {
+          "loc": "https://darwin.md/ru/maslo-dlya-massaza-flutschi-flutschi-orgy-oil.html",
+          "lastmod": "2025-09-07T19:13:44+03:00"
+        },
+        {
+          "loc": "https://darwin.md/lubrifiant-hot-anal-whitening-cream-75-ml.html",
+          "lastmod": "2025-09-07T19:14:36+03:00"
+        }
+      ]
+    },
+    {
+      "loc": "https://darwin.md/media/sitemaps/accesorii-bdsm-535.xml",
+      "lastmod": "2025-09-08T00:00:33+03:00",
+      "type": "urlset",
+      "total_urls": 194,
+      "sample_urls": [
+        {
+          "loc": "https://darwin.md/cearsaf-fetish-vinyl-sheet-02504220000-red.html",
+          "lastmod": "2025-09-05T08:24:47+03:00"
+        },
+        {
+          "loc": "https://darwin.md/ru/prostynya-fetish-vinyl-sheet-02504220000-krasnyi.html",
+          "lastmod": "2025-09-05T08:24:47+03:00"
+        },
+        {
+          "loc": "https://darwin.md/cearsaf-fetish-vinyl-sheet-black.html",
+          "lastmod": "2025-09-07T15:39:10+03:00"
+        },
+        {
+          "loc": "https://darwin.md/ru/prostynya-fetish-vinyl-sheet-cernyi.html",
+          "lastmod": "2025-09-07T15:39:10+03:00"
+        },
+        {
+          "loc": "https://darwin.md/bretele-pentru-brate-si-picioare-fifty-shades-of-grey-keep-still-black.html",
+          "lastmod": "2025-09-07T16:30:59+03:00"
+        }
+      ]
+    },
+    {
+      "loc": "https://darwin.md/media/sitemaps/inele-pentru-penis-536.xml",
+      "lastmod": "2025-09-08T00:00:34+03:00",
+      "type": "urlset",
+      "total_urls": 20,
+      "sample_urls": [
+        {
+          "loc": "https://darwin.md/inel-pentru-penis-you2toys-sex-marathon-multicolor.html",
+          "lastmod": "2025-09-07T06:40:40+03:00"
+        },
+        {
+          "loc": "https://darwin.md/ru/erekcionnoe-kolco-you2toys-sex-marathon-raznocvetnyi.html",
+          "lastmod": "2025-09-07T06:40:40+03:00"
+        },
+        {
+          "loc": "https://darwin.md/inele-pentru-penis-c-ringz-silicone-3-ring-black.html",
+          "lastmod": "2025-09-07T06:40:20+03:00"
+        },
+        {
+          "loc": "https://darwin.md/ru/erekcionnye-kolca-c-ringz-silicone-3-ring-cernyi.html",
+          "lastmod": "2025-09-07T06:40:20+03:00"
+        },
+        {
+          "loc": "https://darwin.md/inel-pentru-penis-control-pro-performance-ring-transparent.html",
+          "lastmod": "2025-09-07T06:37:06+03:00"
+        }
+      ]
+    },
+    {
+      "loc": "https://darwin.md/media/sitemaps/seturi-jucarii-pentru-adulti-537.xml",
+      "lastmod": "2025-09-08T00:00:34+03:00",
+      "type": "urlset",
+      "total_urls": 34,
+      "sample_urls": [
+        {
+          "loc": "https://darwin.md/set-de-vibratoare-we-vibe-tango-pleasure-mate.html",
+          "lastmod": "2025-09-06T10:25:55+03:00"
+        },
+        {
+          "loc": "https://darwin.md/ru/set-de-vibratoare-we-vibe-tango-pleasure-mate.html",
+          "lastmod": "2025-09-06T10:25:55+03:00"
+        },
+        {
+          "loc": "https://darwin.md/golden-moments-collection-by-womanizer-we-vibe-black.html",
+          "lastmod": "2025-09-07T19:50:48+03:00"
+        },
+        {
+          "loc": "https://darwin.md/ru/golden-moments-collection-by-womanizer-we-vibe-black.html",
+          "lastmod": "2025-09-07T19:50:48+03:00"
+        },
+        {
+          "loc": "https://darwin.md/set-de-jucarii-pentru-adulti-you2toys-midnight-blue-light-blue.html",
+          "lastmod": "2025-09-07T02:16:09+03:00"
+        }
+      ]
+    },
+    {
+      "loc": "https://darwin.md/media/sitemaps/papusi-gonflabile-538.xml",
+      "lastmod": "2025-09-08T00:00:34+03:00",
+      "type": "urlset",
+      "total_urls": 62,
+      "sample_urls": [
+        {
+          "loc": "https://darwin.md/papuse-gonflabila-you2toys-anna-05162010000.html",
+          "lastmod": "2025-09-06T07:23:22+03:00"
+        },
+        {
+          "loc": "https://darwin.md/ru/papuse-gonflabila-you2toys-anna-05162010000.html",
+          "lastmod": "2025-09-06T07:23:22+03:00"
+        },
+        {
+          "loc": "https://darwin.md/papusa-pentru-sex-nmc-just-jugs-doll.html",
+          "lastmod": "2025-09-06T20:31:32+03:00"
+        },
+        {
+          "loc": "https://darwin.md/ru/seks-kukly-nmc-just-jugs-doll.html",
+          "lastmod": "2025-09-06T20:31:32+03:00"
+        },
+        {
+          "loc": "https://darwin.md/papusa-pentru-sex-you2toys-angelo.html",
+          "lastmod": "2025-09-07T04:01:02+03:00"
+        }
+      ]
+    },
+    {
+      "loc": "https://darwin.md/media/sitemaps/accesorii-540.xml",
+      "lastmod": "2025-09-08T00:00:34+03:00",
+      "type": "urlset",
+      "total_urls": 6,
+      "sample_urls": [
+        {
+          "loc": "https://darwin.md/iqos-cleaner-white.html",
+          "lastmod": "2025-09-04T03:46:44+03:00"
+        },
+        {
+          "loc": "https://darwin.md/ru/iqos-cleaner-white.html",
+          "lastmod": "2025-09-04T03:46:44+03:00"
+        },
+        {
+          "loc": "https://darwin.md/cleaning-tool-iqos-light-blue.html",
+          "lastmod": "2025-08-09T09:42:46+03:00"
+        },
+        {
+          "loc": "https://darwin.md/ru/cleaning-tool-iqos-light-blue.html",
+          "lastmod": "2025-08-09T09:42:46+03:00"
+        },
+        {
+          "loc": "https://darwin.md/iqos-cleaning-sticks-10.html",
+          "lastmod": "2025-09-07T01:04:42+03:00"
+        }
+      ]
+    },
+    {
+      "loc": "https://darwin.md/media/sitemaps/transport-personal-543.xml",
+      "lastmod": "2025-09-08T00:00:34+03:00",
+      "type": "urlset",
+      "total_urls": 4,
+      "sample_urls": [
+        {
+          "loc": "https://darwin.md/hoverboard-r10-roadking-bt+husa-star.html",
+          "lastmod": "2025-09-07T04:18:34+03:00"
+        },
+        {
+          "loc": "https://darwin.md/ru/hoverboard-r10-roadking-bt+husa-star.html",
+          "lastmod": "2025-09-07T04:18:34+03:00"
+        },
+        {
+          "loc": "https://darwin.md/aima-m3-1200w-motor-72v-20ah-yellow.html",
+          "lastmod": "2025-09-07T23:35:27+03:00"
+        },
+        {
+          "loc": "https://darwin.md/ru/aima-m3-1200w-motor-72v-20ah-yellow.html",
+          "lastmod": "2025-09-07T23:35:27+03:00"
+        }
+      ]
+    },
+    {
+      "loc": "https://darwin.md/media/sitemaps/hoverboard-uri-544.xml",
+      "lastmod": "2025-09-08T00:00:34+03:00",
+      "type": "urlset",
+      "total_urls": 32,
+      "sample_urls": [
+        {
+          "loc": "https://darwin.md/hoverboard-roadking-r6-classic-red.html",
+          "lastmod": "2025-09-07T07:16:04+03:00"
+        },
+        {
+          "loc": "https://darwin.md/ru/hoverboard-roadking-r6-classic-red.html",
+          "lastmod": "2025-09-07T07:16:04+03:00"
+        },
+        {
+          "loc": "https://darwin.md/inmotion-hovershoes-x1-black.html",
+          "lastmod": "2025-09-07T18:39:01+03:00"
+        },
+        {
+          "loc": "https://darwin.md/ru/inmotion-hovershoes-x1-black.html",
+          "lastmod": "2025-09-07T18:39:01+03:00"
+        },
+        {
+          "loc": "https://darwin.md/xiaomi-ninebot-mini-black.html",
+          "lastmod": "2025-09-07T08:59:07+03:00"
+        }
+      ]
+    },
+    {
+      "loc": "https://darwin.md/media/sitemaps/trotinete-electrice-546.xml",
+      "lastmod": "2025-09-08T00:00:34+03:00",
+      "type": "urlset",
+      "total_urls": 136,
+      "sample_urls": [
+        {
+          "loc": "https://darwin.md/razor-electric-e300-white-black.html",
+          "lastmod": "2025-09-07T20:57:53+03:00"
+        },
+        {
+          "loc": "https://darwin.md/ru/razor-electric-e300-white-black.html",
+          "lastmod": "2025-09-07T20:57:53+03:00"
+        },
+        {
+          "loc": "https://darwin.md/razor-e-prime-iron-gray.html",
+          "lastmod": "2025-09-07T22:43:15+03:00"
+        },
+        {
+          "loc": "https://darwin.md/ru/razor-e-prime-iron-gray.html",
+          "lastmod": "2025-09-07T22:43:15+03:00"
+        },
+        {
+          "loc": "https://darwin.md/segway-ninebot-kickscooter-es4-dark-gray.html",
+          "lastmod": "2025-09-05T21:11:24+03:00"
+        }
+      ]
+    },
+    {
+      "loc": "https://darwin.md/media/sitemaps/trotinete-pentru-copii-548.xml",
+      "lastmod": "2025-09-08T00:00:34+03:00",
+      "type": "urlset",
+      "total_urls": 1090,
+      "sample_urls": [
+        {
+          "loc": "https://darwin.md/trotineta-pentru-copii-cu-trei-roti-lorelli-smart-pink.html",
+          "lastmod": "2025-08-26T16:54:27+03:00"
+        },
+        {
+          "loc": "https://darwin.md/ru/detskii-tryoxkolyosnyi-samokat-lorelli-smart-pink.html",
+          "lastmod": "2025-08-26T16:54:27+03:00"
+        },
+        {
+          "loc": "https://darwin.md/trotineta-pentru-copii-cu-doua-roti-kikka-boo-makani-lunox-11116-pink.html",
+          "lastmod": "2025-09-07T22:25:46+03:00"
+        },
+        {
+          "loc": "https://darwin.md/ru/detskii-dvuxkolyosnyi-samokat-kikka-boo-makani-lunox-11116-rozovyi.html",
+          "lastmod": "2025-09-07T22:25:46+03:00"
+        },
+        {
+          "loc": "https://darwin.md/trotineta-pentru-copii-cu-doua-roti-kikka-boo-makani-syrius-11093-blue.html",
+          "lastmod": "2025-09-07T22:19:48+03:00"
+        }
+      ]
+    }
+  ]
+}

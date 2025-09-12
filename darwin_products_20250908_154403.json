@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "export_date": "2025-09-08T15:44:03.948793",
+    "total_products": 0,
+    "source": "darwin.md",
+    "scraper_version": "1.0",
+    "libraries_used": {
+      "drissionpage": false,
+      "seleniumbase": true,
+      "beautifulsoup": true
+    }
+  },
+  "products": []
+}
