@@ -4,6 +4,7 @@ Darwin.md AI Web Scraping Agent - Versiune Completă și Reparată
 Agent inteligent specializat pentru Darwin.md cu toate metodele implementate
 """
 
+
 import streamlit as st
 import requests
 import json
@@ -16,15 +17,27 @@ from typing import Dict, List, Any, Optional
 import re
 import os
 import logging
+import sys
 from datetime import datetime
 from concurrent.futures import ThreadPoolExecutor, as_completed
+from dotenv import load_dotenv
 
-import requests
-import re
-import time
-import logging
-import xml.etree.ElementTree as ET
-import streamlit as st
+# Add config directory to path for centralized environment management
+sys.path.insert(0, os.path.join(os.path.dirname(os.path.dirname(__file__)), 'config'))
+try:
+    from env_config import get_environment_config, validate_environment, select_ai_provider
+    ENV_CONFIG_AVAILABLE = True
+except ImportError:
+    ENV_CONFIG_AVAILABLE = False
+
+# Gemini integration
+try:
+    from google.generativeai import GenerativeModel
+    GEMINI_AVAILABLE = True
+except ImportError:
+    GEMINI_AVAILABLE = False
+
+load_dotenv()
 
 # AI Framework
 from agno.agent import Agent
@@ -60,65 +73,137 @@ logging.basicConfig(
     ]
 )
 
+
 class DarwinProductScraper:
+    def ai_explain_sitemap(self, sitemap_urls: list, max_urls: int = 50) -> dict:
+        """
+        Folosește AI (Gemini sau OpenAI) pentru a analiza semantic structura sitemap-ului și a oferi o explicație a categoriilor, tipurilor de pagini și a logicii de organizare.
+        Args:
+            sitemap_urls: Lista de URL-uri extrase din sitemap (max 50 pentru prompt)
+            max_urls: Numărul maxim de URL-uri de analizat (default 50)
+        Returns:
+            dict cu sumar semantic, categorii, tipuri de pagini și observații AI
+        """
+        if not sitemap_urls:
+            return {"success": False, "error": "Nu există URL-uri de analizat"}
+        urls_sample = sitemap_urls[:max_urls]
+        prompt = (
+            "Primești o listă de URL-uri dintr-un sitemap de e-commerce (darwin.md). "
+            "Analizează și explică structura sitemap-ului: ce categorii există, ce tipuri de pagini (produs, categorie, promo, etc), "
+            "cum sunt organizate URL-urile și ce reguli semantice se pot deduce. "
+            "Răspunde structurat în JSON cu cheile: 'categories', 'page_types', 'url_patterns', 'rules', 'summary'. "
+            "Fii concis, dar acoperă toate tipurile majore. Exemplu de răspuns: {\"categories\": [...], \"page_types\": [...], ...} "
+            "\n\nURL-uri de analizat:\n" + "\n".join(urls_sample)
+        )
+        ai_result = None
+        if self.ai_provider == 'gemini' and self.model:
+            try:
+                response = self.model.generate_content(prompt)
+                ai_result = response.text if hasattr(response, 'text') else str(response)
+            except Exception as e:
+                return {"success": False, "error": f"Gemini API error: {e}"}
+        elif self.ai_provider == 'openai' and self.model:
+            try:
+                resp = self.model.chat([{"role": "user", "content": prompt}], temperature=0.1)
+                ai_result = resp if isinstance(resp, str) else resp.get('content', str(resp))
+            except Exception as e:
+                return {"success": False, "error": f"OpenAI API error: {e}"}
+        else:
+            return {"success": False, "error": "Niciun model AI configurat"}
+
+        # Încearcă să parsezi JSON-ul din răspuns
+        import re, json
+        try:
+            m = re.search(r'\{[\s\S]*\}', ai_result)
+            if m:
+                parsed = json.loads(m.group(0))
+                return {"success": True, "ai": parsed, "raw": ai_result}
+            else:
+                return {"success": True, "ai": None, "raw": ai_result}
+        except Exception:
+            return {"success": True, "ai": None, "raw": ai_result}
     """
     Scraper profesional pentru e-commerce specializat pentru Darwin.md
-    Construit pentru integrarea cu Telegram Bot + ChromaDB
+    Suportă integrare AI cu OpenAI sau Gemini (Google) pentru analiză semantică.
     """
-    
-    def __init__(self, openai_api_key: str, openai_model: str = "gpt-4o"):
-        """Inițializare scraper cu integrare OpenAI"""
-        
-        if not openai_api_key:
-            raise ValueError("OpenAI API key este necesar")
-        
-        # Configurare Model OpenAI
-        self.model = OpenAIChat(
-            id=openai_model,
-            api_key=openai_api_key,
-            temperature=0.1
-        )
-        
-        # Agent AI cu instrumente specializate
-        self.agent = Agent(
-            model=self.model,
-            tools=[
-                self.discover_all_products,
-                self.extract_product_details,
-                self.validate_product_data,
-                self.analyze_darwin_categories
-            ],
-            instructions="""
-            Ești un specialist profesional în extragerea datelor pentru e-commerce pentru Darwin.md.
+    def __init__(self, openai_api_key: Optional[str] = None, openai_model: str = "gpt-4o", gemini_api_key: Optional[str] = None, ai_provider: Optional[str] = None):
+        """
+        Inițializare scraper cu integrare AI (OpenAI sau Gemini)
+        ai_provider: 'openai', 'gemini', sau None (auto)
+        """
+        # Folosește noul sistem centralizat de configurare dacă este disponibil
+        if ENV_CONFIG_AVAILABLE:
+            config = get_environment_config()
             
-            OBIECTIV: Extrage catalogul complet de produse pentru Telegram Bot + ChromaDB
+            # Încarcă cheile din configurare dacă nu sunt date explicit
+            if openai_api_key is None:
+                openai_api_key = config.get_openai_api_key()
+            if gemini_api_key is None:
+                gemini_api_key = config.get_gemini_api_key()
             
-            SITE ȚINTĂ: Darwin.md (retailer de electronice din Moldova)
-            SITEMAP: https://darwin.md/sitemap.xml
-            
-            CATEGORII DE PRODUSE DE AȘTEPTAT:
-            - Telefoane (Smartphone-uri)
-            - Laptopuri (Laptopuri) 
-            - Tablete (Tablete)
-            - Accesorii (Accesorii)
-            - Audio (Căști, Boxe)
-            - Gaming (Console, Jocuri)
-            - Smart Home
-            - Electronice (Electronice Generale)
-            
-            CERINȚE DE CALITATE A DATELOR:
-            - Nume de produse curate și structurate
-            - Prețuri precise în MDL (Leu Moldovenesc)
-            - Descrieri comprehensive
-            - URL-uri valide de produse
-            - URL-uri de imagini de înaltă calitate
-            - Categorizare adecvată
-            
-            FORMAT IEȘIRE: CSV gata pentru colecțiile ChromaDB
-            COLOANE: id, name, description, price, category, url, image_url
-            """
-        )
-        
+            # Auto-selectează providerul dacă nu este specificat
+            if ai_provider is None:
+                ai_provider = config.get_ai_provider()
+                if ai_provider == "auto":
+                    selected_provider, selected_key = config.select_ai_provider()
+                    ai_provider = selected_provider
+                    if selected_provider == "openai":
+                        openai_api_key = selected_key
+                    elif selected_provider == "gemini":
+                        gemini_api_key = selected_key
+        else:
+            # Fallback la metoda veche dacă noul sistem nu este disponibil
+            if openai_api_key is None:
+                openai_api_key = os.getenv("OPENAI_API_KEY")
+            if gemini_api_key is None:
+                gemini_api_key = os.getenv("GEMINI_API_KEY")
+
+            # Selectează providerul AI
+            if ai_provider is None:
+                if gemini_api_key and GEMINI_AVAILABLE:
+                    ai_provider = 'gemini'
+                elif openai_api_key:
+                    ai_provider = 'openai'
+                else:
+                    ai_provider = None
+
+        self.ai_provider = ai_provider
+        self.model = None
+        self.agent = None
+
+        if ai_provider == 'gemini':
+            if not gemini_api_key:
+                raise ValueError("Gemini API key este necesar pentru integrarea Gemini!")
+            if not GEMINI_AVAILABLE:
+                raise ImportError("google-generativeai nu este instalat!")
+            self.model = GenerativeModel("gemini-pro", api_key=gemini_api_key)
+            self.agent = None  # Poți adăuga un wrapper pentru Gemini dacă vrei tool-uri
+        elif ai_provider == 'openai':
+            if not openai_api_key:
+                raise ValueError("OpenAI API key este necesar!")
+            self.model = OpenAIChat(
+                id=openai_model,
+                api_key=openai_api_key,
+                temperature=0.1
+            )
+            self.agent = Agent(
+                model=self.model,
+                tools=[
+                    self.discover_all_products,
+                    self.extract_product_details,
+                    self.validate_product_data,
+                    self.analyze_darwin_categories
+                ],
+                instructions="""
+                Ești un specialist profesional în extragerea datelor pentru e-commerce pentru Darwin.md.
+                ...existing code...
+                """
+            )
+        else:
+            logging.warning("Niciun provider AI nu este configurat. Funcțiile AI nu vor fi disponibile.")
+            self.model = None
+            self.agent = None
+
         # Stocare date
         self.all_products = []
         self.failed_urls = []

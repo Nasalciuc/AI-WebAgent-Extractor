@@ -41,11 +41,15 @@ downloaded_files/
 *.swp
 *.swo
 
+
 # Environment
 .env
+.env.*
 .venv
 venv/
 ENV/
 
 # Jupyter Notebook
 .ipynb_checkpoints
+# Centralized environment configuration
+config/.env
