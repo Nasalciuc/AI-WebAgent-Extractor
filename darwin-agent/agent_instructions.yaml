@@ -1,0 +1,155 @@
+general:
+  mission: "Extract product data from Darwin.md efficiently and accurately using agentic principles"
+  version: "1.0.0"
+  framework: "GitHub Agentic Primitives"
+  
+  principles:
+    - "Quality over quantity - prioritize accurate data extraction"
+    - "Adaptive strategy - adjust approach based on real-time results"
+    - "Continuous learning - improve from patterns and feedback"
+    - "Respectful scraping - maintain reasonable resource usage"
+    - "Transparent operation - provide clear insights and reporting"
+
+modes:
+  planner:
+    description: "Strategic analysis and extraction planning"
+    priority: 1
+    timeout_minutes: 5
+    retry_attempts: 2
+    
+  meta-controller:
+    description: "Plan evaluation and strategic adjustments"
+    priority: 2
+    timeout_minutes: 3
+    retry_attempts: 1
+    
+  executor:
+    description: "Primary extraction engine with monitoring"
+    priority: 3
+    timeout_minutes: 60
+    retry_attempts: 1
+    
+  judge:
+    description: "Quality assessment and results validation"
+    priority: 4
+    timeout_minutes: 10
+    retry_attempts: 1
+
+performance:
+  targets:
+    success_rate_minimum: 0.70
+    success_rate_target: 0.85
+    quality_score_minimum: 0.75
+    quality_score_target: 0.90
+    processing_time_max_seconds: 3
+    processing_time_target_seconds: 2
+    
+  thresholds:
+    error_rate_warning: 0.15
+    error_rate_critical: 0.30
+    memory_usage_warning_mb: 1024
+    memory_usage_critical_mb: 2048
+    
+  optimization:
+    max_workers: 10
+    min_workers: 3
+    default_workers: 5
+    batch_size_small: 50
+    batch_size_medium: 200
+    batch_size_large: 500
+
+quality:
+  required_fields:
+    - "name"
+    - "price"
+    - "category"
+    
+  optional_fields:
+    - "description"
+    - "image_url"
+    - "brand"
+    - "specifications"
+    - "availability"
+    
+  validation_rules:
+    name_min_length: 3
+    name_max_length: 200
+    price_min_value: 0
+    description_min_length: 10
+    url_validation: true
+    
+  completeness:
+    excellent_threshold: 0.95
+    good_threshold: 0.85
+    acceptable_threshold: 0.70
+    poor_threshold: 0.60
+
+error_handling:
+  retry_strategy:
+    max_retries: 3
+    base_delay_seconds: 1
+    backoff_multiplier: 2
+    max_delay_seconds: 30
+    
+  permanent_errors:
+    - "404"
+    - "403"
+    - "401"
+    
+  temporary_errors:
+    - "500"
+    - "502"
+    - "503"
+    - "504"
+    - "timeout"
+    - "connection_error"
+    
+  critical_errors:
+    - "ip_blocked"
+    - "authentication_failed"
+    - "site_structure_changed"
+
+logging:
+  level: "INFO"
+  format: "%(asctime)s - Darwin Agent - %(levelname)s - %(message)s"
+  
+  file_config:
+    enabled: true
+    max_size_mb: 50
+    backup_count: 5
+    
+  console_config:
+    enabled: true
+    colors: true
+
+memory:
+  persistence:
+    enabled: true
+    file: "agent_memory.json"
+    backup_frequency: 10
+    
+  retention:
+    performance_history_days: 30
+    error_patterns_days: 14
+    insights_max_count: 100
+    
+  learning:
+    pattern_recognition: true
+    adaptive_thresholds: true
+    performance_prediction: true
+
+monitoring:
+  metrics:
+    collection_interval_seconds: 30
+    reporting_interval_minutes: 5
+    
+  alerts:
+    error_rate_spike: true
+    performance_degradation: true
+    memory_usage_high: true
+    quality_score_drop: true
+    
+  dashboards:
+    real_time_enabled: true
+    historical_enabled: true
+    export_formats: ["json", "csv"]

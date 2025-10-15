@@ -1,0 +1,199 @@
+name: "Darwin Agent Extraction Specification"
+version: "1.0.0"
+description: "Technical specification for Darwin.md product extraction using agentic framework"
+
+extraction_targets:
+  primary_site: "https://darwin.md"
+  product_categories:
+    - "accesorii-smartphone"
+    - "electronice-audio"
+    - "casa-gradina"
+    - "instrumente-scule"
+    - "auto-moto"
+    - "sport-outdoor"
+    - "fashion"
+    - "cosmetice-ingrijire"
+  
+  data_structure:
+    required_fields:
+      name:
+        type: "string"
+        max_length: 200
+        validation: "non_empty"
+        extraction_method: "css_selector"
+        selector: ".product-title, h1.title"
+        
+      price:
+        type: "float"
+        format: "lei"
+        validation: "positive_number"
+        extraction_method: "css_selector"
+        selector: ".price-current, .product-price"
+        
+      category:
+        type: "string"
+        max_length: 100
+        validation: "non_empty"
+        extraction_method: "url_path"
+        fallback_selector: ".breadcrumb, .category-path"
+        
+    optional_fields:
+      description:
+        type: "text"
+        max_length: 2000
+        extraction_method: "css_selector"
+        selector: ".product-description, .description-content"
+        
+      image_url:
+        type: "url"
+        validation: "valid_url"
+        extraction_method: "css_selector"
+        selector: ".product-image img, .main-image img"
+        attribute: "src"
+        
+      brand:
+        type: "string"
+        max_length: 100
+        extraction_method: "css_selector"
+        selector: ".product-brand, .brand-name"
+        
+      specifications:
+        type: "object"
+        extraction_method: "table_parsing"
+        selector: ".specifications-table, .product-specs"
+        
+      availability:
+        type: "string"
+        allowed_values: ["in_stock", "out_of_stock", "limited", "preorder"]
+        extraction_method: "css_selector"
+        selector: ".availability, .stock-status"
+
+technical_requirements:
+  scraping_constraints:
+    request_rate_limit: "2_requests_per_second"
+    concurrent_workers: "max_10"
+    user_agent: "Darwin Agent Bot 1.0"
+    respect_robots_txt: true
+    
+  session_management:
+    cookie_handling: true
+    session_persistence: true
+    cloudflare_bypass: true
+    
+  error_handling:
+    max_retries: 3
+    retry_delays: [1, 2, 4]  # seconds
+    circuit_breaker: true
+    graceful_degradation: true
+    
+  output_formats:
+    primary: "json"
+    secondary: "csv"
+    encoding: "utf-8"
+    compression: "optional"
+
+quality_standards:
+  data_completeness:
+    required_fields_threshold: 0.95  # 95% must have all required fields
+    optional_fields_target: 0.70     # 70% should have optional fields
+    
+  data_accuracy:
+    price_format_validation: true
+    url_accessibility_check: true
+    category_consistency_check: true
+    
+  data_consistency:
+    field_format_standards: true
+    encoding_normalization: true
+    duplicate_detection: true
+
+performance_specifications:
+  throughput_targets:
+    small_batch: "50_products_per_minute"
+    medium_batch: "100_products_per_minute"
+    large_batch: "150_products_per_minute"
+    
+  resource_limits:
+    max_memory_usage: "2GB"
+    max_cpu_utilization: "80%"
+    max_network_bandwidth: "10Mbps"
+    
+  reliability_targets:
+    uptime: "99%"
+    success_rate: "85%"
+    error_recovery: "90%"
+
+security_requirements:
+  data_protection:
+    no_personal_data_collection: true
+    respect_privacy_policies: true
+    secure_storage: true
+    
+  access_control:
+    api_key_protection: true
+    configuration_encryption: false  # Not required for this use case
+    audit_logging: true
+    
+  compliance:
+    gdpr_compliance: true
+    robots_txt_compliance: true
+    rate_limiting_compliance: true
+
+monitoring_specifications:
+  real_time_metrics:
+    - "extraction_rate"
+    - "success_percentage"
+    - "error_frequency"
+    - "response_times"
+    - "memory_usage"
+    
+  quality_metrics:
+    - "field_completeness"
+    - "data_accuracy_score"
+    - "duplicate_detection_rate"
+    - "format_consistency"
+    
+  alerting_thresholds:
+    error_rate_warning: 0.15
+    error_rate_critical: 0.30
+    success_rate_warning: 0.70
+    success_rate_critical: 0.50
+    memory_usage_warning: 0.80
+    memory_usage_critical: 0.95
+
+integration_requirements:
+  existing_components:
+    - "DarwinProductScraper class integration"
+    - "EnvironmentConfig system compatibility"
+    - "Traffic analyzer integration potential"
+    
+  api_compatibility:
+    - "OpenAI API integration"
+    - "Google Gemini API integration"
+    - "Configurable AI provider selection"
+    
+  file_system:
+    - "JSON/CSV output generation"
+    - "Configuration file management"
+    - "Log file organization"
+    - "Memory persistence"
+
+deployment_specifications:
+  environment_requirements:
+    python_version: ">=3.8"
+    required_packages:
+      - "requests>=2.25.0"
+      - "beautifulsoup4>=4.9.0"
+      - "pandas>=1.3.0"
+      - "pyyaml>=5.4.0"
+      - "python-dotenv>=0.19.0"
+      
+  configuration_management:
+    environment_variables: true
+    config_file_support: true
+    runtime_configuration: true
+    
+  scalability:
+    horizontal_scaling: "worker_process_based"
+    vertical_scaling: "memory_and_cpu_adaptive"
+    cloud_deployment_ready: true

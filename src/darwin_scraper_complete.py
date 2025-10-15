@@ -176,7 +176,10 @@ class DarwinProductScraper:
                 raise ValueError("Gemini API key este necesar pentru integrarea Gemini!")
             if not GEMINI_AVAILABLE:
                 raise ImportError("google-generativeai nu este instalat!")
-            self.model = GenerativeModel("gemini-pro", api_key=gemini_api_key)
+            # Configure Gemini with API key
+            import google.generativeai as genai
+            genai.configure(api_key=gemini_api_key)
+            self.model = GenerativeModel("gemini-pro")
             self.agent = None  # Poți adăuga un wrapper pentru Gemini dacă vrei tool-uri
         elif ai_provider == 'openai':
             if not openai_api_key:

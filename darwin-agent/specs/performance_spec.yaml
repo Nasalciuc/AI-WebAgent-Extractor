@@ -1,0 +1,201 @@
+name: "Darwin Agent Performance Specification"
+version: "1.0.0"
+description: "Performance benchmarks, optimization targets, and monitoring specifications"
+
+performance_benchmarks:
+  extraction_throughput:
+    targets:
+      products_per_minute:
+        minimum: 30
+        target: 60
+        optimal: 100
+        
+      products_per_hour:
+        minimum: 1800
+        target: 3600
+        optimal: 6000
+        
+    by_batch_size:
+      small_batch_1_50:
+        expected_rate: "2-3 products/minute/worker"
+        optimal_workers: 3
+        
+      medium_batch_51_200:
+        expected_rate: "4-5 products/minute/worker"
+        optimal_workers: 5
+        
+      large_batch_201_plus:
+        expected_rate: "5-6 products/minute/worker"
+        optimal_workers: 8
+
+  response_time_targets:
+    per_product_extraction:
+      minimum_acceptable: "5 seconds"
+      target: "2 seconds"
+      optimal: "1 second"
+      
+    full_workflow_phases:
+      planning_phase: "< 30 seconds"
+      meta_controller_phase: "< 15 seconds"
+      execution_phase: "variable (depends on batch size)"
+      judgment_phase: "< 60 seconds"
+
+  success_rate_targets:
+    overall_extraction:
+      minimum_acceptable: 70.0
+      target: 85.0
+      optimal: 95.0
+      
+    by_error_type:
+      network_errors: "< 10%"
+      parsing_errors: "< 5%"
+      timeout_errors: "< 8%"
+      rate_limit_errors: "< 3%"
+
+resource_utilization:
+  memory_usage:
+    baseline: "100-200 MB"
+    per_worker: "50-100 MB"
+    maximum_acceptable: "2 GB"
+    
+    optimization_targets:
+      data_structure_efficiency: "minimize object overhead"
+      garbage_collection: "optimize for long-running processes"
+      memory_leaks: "zero tolerance"
+      
+  cpu_utilization:
+    target_range: "40-70%"
+    peak_acceptable: "85%"
+    idle_minimum: "5%"
+    
+    by_component:
+      network_io: "20-30%"
+      html_parsing: "30-40%"
+      data_processing: "15-25%"
+      file_operations: "5-10%"
+      
+  network_bandwidth:
+    average_usage: "1-5 Mbps"
+    peak_usage: "10 Mbps"
+    efficiency_target: "> 80% useful data transfer"
+
+scalability_specifications:
+  horizontal_scaling:
+    worker_scaling:
+      minimum_workers: 1
+      default_workers: 5
+      maximum_workers: 10
+      scaling_strategy: "adaptive based on batch size and performance"
+      
+    batch_processing:
+      minimum_batch_size: 10
+      optimal_batch_size: 100
+      maximum_batch_size: 500
+      chunking_strategy: "divide large batches into optimal chunks"
+      
+  vertical_scaling:
+    memory_scaling:
+      base_requirement: "512 MB"
+      per_100_products: "+ 100 MB"
+      maximum_allocation: "4 GB"
+      
+    cpu_scaling:
+      single_core_minimum: true
+      multi_core_optimization: true
+      cpu_affinity: "automatic"
+
+quality_performance_metrics:
+  data_completeness_targets:
+    required_fields:
+      excellent: "≥ 98%"
+      good: "90-97%"
+      acceptable: "80-89%"
+      poor: "< 80%"
+      
+    optional_fields:
+      excellent: "≥ 85%"
+      good: "70-84%"
+      acceptable: "55-69%"
+      poor: "< 55%"
+      
+  data_accuracy_targets:
+    price_extraction: "≥ 95% accurate format"
+    category_classification: "≥ 90% correct category"
+    image_url_validity: "≥ 85% accessible URLs"
+    name_extraction: "≥ 98% complete names"
+
+monitoring_performance:
+  real_time_monitoring:
+    update_frequency: "every 10 seconds"
+    metric_collection_overhead: "< 2% CPU"
+    storage_efficiency: "< 10 MB per hour of monitoring"
+    
+  historical_analysis:
+    data_retention: "30 days detailed, 1 year summary"
+    trend_analysis: "weekly and monthly patterns"
+    performance_prediction: "next execution estimates"
+    
+  alerting_performance:
+    alert_generation_time: "< 30 seconds"
+    notification_delivery: "< 60 seconds"
+    false_positive_rate: "< 5%"
+
+optimization_strategies:
+  network_optimization:
+    connection_pooling: true
+    keep_alive_connections: true
+    compression_support: true
+    http2_support: "if available"
+    
+  parsing_optimization:
+    css_selector_caching: true
+    dom_tree_reuse: true
+    regex_compilation_caching: true
+    
+  data_processing_optimization:
+    batch_data_operations: true
+    in_memory_processing: "prioritize over disk I/O"
+    streaming_for_large_datasets: true
+    
+  concurrency_optimization:
+    thread_pool_reuse: true
+    async_io_where_possible: true
+    lock_contention_minimization: true
+
+performance_testing:
+  load_testing:
+    test_scenarios:
+      - "10 products, 1 worker"
+      - "100 products, 5 workers"
+      - "500 products, 10 workers"
+      - "1000 products, 10 workers (chunked)"
+      
+  stress_testing:
+    memory_pressure: "test with limited memory"
+    cpu_pressure: "test with high CPU load"
+    network_pressure: "test with slow/unreliable network"
+    
+  regression_testing:
+    performance_benchmarks: "maintain or improve previous results"
+    memory_leak_detection: "long-running extraction tests"
+    stability_testing: "24-hour continuous operation"
+
+reporting_requirements:
+  performance_reports:
+    execution_summary:
+      - "total_time"
+      - "products_processed"
+      - "success_rate"
+      - "average_processing_time"
+      - "resource_utilization"
+      
+    detailed_metrics:
+      - "phase_by_phase_timing"
+      - "worker_performance_distribution"
+      - "error_breakdown_by_type"
+      - "quality_metrics_by_category"
+      
+  trend_analysis:
+    performance_over_time: "track improvements or degradation"
+    seasonal_patterns: "identify time-based performance variations"
+    batch_size_correlation: "optimal batch size recommendations"
