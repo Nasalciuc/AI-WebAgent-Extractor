@@ -1,0 +1,4 @@
+# Test requirements for Darwin Agent Framework
+pytest>=7.0.0
+pyyaml>=6.0
+pathlib
